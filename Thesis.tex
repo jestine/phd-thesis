@@ -1,0 +1,65 @@
+\documentclass[11pt]{report}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{esint}
+\usepackage{graphicx}
+\usepackage{eucal}
+\usepackage{textcomp}
+\usepackage{units}
+\usepackage{setspace}
+\usepackage[amssymb,thinqspace,thinspace]{SIunits}
+\usepackage{subfig}
+\usepackage{bm} 
+\usepackage{multirow}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage{lscape}
+\usepackage{pdflscape}
+%\usepackage{epstopdf}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\setlength{\parskip}{0.3cm}
+\onehalfspace
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+%\setcounter{secnumdepth}{-1}
+%\setcounter{tocdepth}{3} 
+
+%\title{Nickel-Base Superalloys and Beyond}
+%\author{Jestine Ang}
+%\date{\today}                              
+% Activate to display a given date or no date
+\begin{document}
+\input{title.tex}
+
+\textmd{This dissertation is submitted for the Doctorate of Philosophy in Natural Sciences at the University of Cambridge.  It describes research carried out in the Department of Materials Science and Metallurgy between October 2007 and February 2012 under the supervision of Dr.  Catherine M.  F.  Rae and Dr.  Howard J.  Stone.}
+
+\vspace{1in}
+\begin{flushright}
+Jestine Ang
+
+\today
+\end{flushright}
+%\maketitle
+\tableofcontents
+% INPUT NI-BASE HALF
+%\input{superalloys.tex}
+% INPUT ALTERNATIVE MATERIALS REVIEW
+\input{silicideintro.tex}
+%\input{ceramicintro.tex}
+% INPUT SILICIDE HALF
+\input{silicidealloydesignii.tex}
+\input{silicideexperimental.tex}
+\input{alloy_manufacture_compositions.tex}
+\input{MicrostructureandWDS.tex}
+\input{high_temp_testing.tex}
+\input{silicidesuicide.tex}
+\input{loadpartitioning.tex}
+% INPUT CONCLUSION
+\input{conclusion}
+%INPUT LDSX APPENDIX
+%\input{appendix.tex}
+%BIBLIOGRAPHY
+%\bibliographystyle{acm}
+\bibliography{references}
+\end{document} 

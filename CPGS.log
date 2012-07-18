@@ -1,0 +1,4562 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.29)  12 OCT 2013 23:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CPGS.tex
+(./CPGS.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/verse/verse.sty
+Package: verse 2009/09/04 v2.4a verse typesetting
+\c@vslineno=\count102
+\c@poemline=\count103
+\c@fvsline=\count104
+\c@modulo@vs=\count105
+\c@verse@envctr=\count106
+\versewidth=\skip46
+\vgap=\skip47
+\vindent=\skip48
+\stanzaskip=\skip49
+\vleftskip=\skip50
+\vrightskip=\skip51
+\c@chrsinstr=\count107
+\beforepoemtitleskip=\skip52
+\afterpoemtitleskip=\skip53
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/frankenstein/attrib.sty
+Package: attrib 2001/08/31 v1.3 attribution of block elements (Frankenstein's h
+at)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/frankenstein/moredefs.sty
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks21
+\sc@toks@b=\toks22
+)
+\AttribMinSkip=\skip54
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen112
+\extrarowheight=\dimen113
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/esint/esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup6
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip57
+\L@UnitsRaiseTextstyle=\skip58
+\L@UnitsRaiseScriptstyle=\skip59
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/SIunits/SIunits.sty
+Package: SIunits 2007/12/02 v1.36 Support for the International System of units
+ (MH)
+
+
+\@qskwidth=\skip60
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
+\symgreek=\mathgroup7
+LaTeX Info: Redefining \unit on input line 113.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/SIunits/SIunits.cfg)
+LaTeX Info: Redefining \usk on input line 576.
+
+Option `thinspace' provided!
+LaTeX Info: Redefining \@qsk on input line 576.
+Option `thinqspace' provided!
+Option `amssymb' provided!
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count108
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count109
+\sf@farskip=\skip61
+\sf@captopadj=\dimen122
+\sf@capskip=\skip62
+\sf@nearskip=\skip63
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip64
+\sf@bottom=\skip65
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup8
+\symboldletters=\mathgroup9
+\symboldsymbols=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen123
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count116
+\Gm@cntv=\count117
+\c@Gm@tempcnt=\count118
+\Gm@bindingoffset=\dimen124
+\Gm@wd@mp=\dimen125
+\Gm@odd@mp=\dimen126
+\Gm@even@mp=\dimen127
+\Gm@layoutwidth=\dimen128
+\Gm@layoutheight=\dimen129
+\Gm@layouthoffset=\dimen130
+\Gm@layoutvoffset=\dimen131
+\Gm@dimlist=\toks25
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2011/02/26 v2.1f Advanced font selection for XeLaTeX/LuaLaTeX
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/expl3.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3names.sty
+Package: l3names 2011/01/08 v2122 L3 Experimental Naming Scheme for TeX Primiti
+ves
+)
+Package: expl3 2011/04/09 v2222 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count119
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3basics.sty
+Package: l3basics 2011/04/23 v2246 L3 Experimental basic definitions
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3expan.sty
+Package: l3expan 2011/04/09 v2223 L3 Experimental Argument Expansion module
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3tl.sty
+Package: l3tl 2011/04/09 v2223 L3 Experimental Token Lists
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3int.sty
+Package: l3int 2011/04/11 v2229 L3 Experimental Integer module
+\l_tmpa_int=\count120
+\l_tmpb_int=\count121
+\l_tmpc_int=\count122
+\g_tmpa_int=\count123
+\g_tmpb_int=\count124
+\c_max_int=\count125
+\g_tl_inline_level_int=\count126
+\g_prg_inline_level_int=\count127
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3quark.sty
+Package: l3quark 2011/04/14 v2234 L3 Experimental Quark Commands
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3seq.sty
+Package: l3seq 2011/04/21 v2245 The LaTeX3 kernel: sequences and stacks
+\g_seq_nesting_depth_int=\count128
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3toks.sty
+Package: l3toks 2011/04/09 v2223 L3 Experimental Token Registers
+\l_tmpb_toks=\toks26
+\l_tmpc_toks=\toks27
+\g_tmpa_toks=\toks28
+\g_tmpb_toks=\toks29
+\g_tmpc_toks=\toks30
+\c_empty_toks=\toks31
+\l_tl_replace_toks=\toks32
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3prg.sty
+Package: l3prg 2011/04/09 v2223 L3 Experimental control structures
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3clist.sty
+Package: l3clist 2011/04/09 v2223 L3 Experimental comma separated lists
+\g_clist_map_inline_int=\count129
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3token.sty
+Package: l3token 2011/04/09 v2223 L3 Experimental token investigation and manip
+ulation
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3prop.sty
+Package: l3prop 2011/04/09 v2223 L3 Experimental Property Lists
+\g_prop_inline_level_int=\count130
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3msg.sty
+Package: l3msg 2010/10/02 v2052 L3 Experimental LaTeX Messages module
+\l_msg_redirect_classes_prop=\toks33
+\l_msg_redirect_names_prop=\toks34
+\l_msg_redirect_fatal_prop=\toks35
+\l_msg_redirect_error_prop=\toks36
+\l_msg_redirect_warning_prop=\toks37
+\l_msg_redirect_info_prop=\toks38
+\l_msg_redirect_log_prop=\toks39
+\l_msg_redirect_trace_prop=\toks40
+\l_msg_redirect_none_prop=\toks41
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3io.sty
+Package: l3io 2010/10/03 v2063 L3 Experimental i/o module
+\g_iow_streams_prop=\toks42
+\g_ior_streams_prop=\toks43
+\l_iow_stream_int=\count131
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3skip.sty
+Package: l3skip 2011/02/15 v2149 L3 Experimental skip registers
+\l_tmpa_skip=\skip66
+\l_tmpb_skip=\skip67
+\l_tmpc_skip=\skip68
+\g_tmpa_skip=\skip69
+\g_tmpb_skip=\skip70
+\l_tmpa_dim=\dimen132
+\l_tmpb_dim=\dimen133
+\l_tmpc_dim=\dimen134
+\l_tmpd_dim=\dimen135
+\g_tmpa_dim=\dimen136
+\g_tmpb_dim=\dimen137
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3box.sty
+Package: l3box 2011/04/09 v2223 L3 Experimental Box module
+\l_tmpb_box=\box30
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3keyval.sty
+Package: l3keyval 2011/04/09 v2223 L3 Experimental keyval processing
+\l_KV_level_int=\count132
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3keys.sty
+Package: l3keys 2010/11/11 v2082 L3 Experimental key-value support
+\l_keys_choice_int=\count133
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3precom.sty
+Package: l3precom 2011/04/09 v2223 L3 Experimental precompilation module
+\g_gen_sym_int=\count134
+\g_ggen_sym_int=\count135
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3xref.sty
+Package: l3xref 2011/04/09 v2223 L3 Experimental cross referencing
+\g_xref_all_curr_immediate_fields_prop=\toks44
+\g_xref_all_curr_deferred_fields_prop=\toks45
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3file.sty
+Package: l3file 2011/04/21 v2242 The LaTeX3 kernel: file operations
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3fp.sty
+Package: l3fp 2011/03/19 v2201 L3 Experimental floating-point operations
+\c_one_million=\count136
+\c_one_hundred_million=\count137
+\c_five_hundred_million=\count138
+\c_one_thousand_million=\count139
+\c_fp_pi_by_four_decimal_int=\count140
+\c_fp_pi_by_four_extended_int=\count141
+\c_fp_pi_decimal_int=\count142
+\c_fp_pi_extended_int=\count143
+\c_fp_two_pi_decimal_int=\count144
+\c_fp_two_pi_extended_int=\count145
+\l_fp_count_int=\count146
+\l_fp_div_offset_int=\count147
+\l_fp_exp_integer_int=\count148
+\l_fp_exp_decimal_int=\count149
+\l_fp_exp_extended_int=\count150
+\l_fp_exp_exponent_int=\count151
+\l_fp_input_a_sign_int=\count152
+\l_fp_input_a_integer_int=\count153
+\l_fp_input_a_decimal_int=\count154
+\l_fp_input_a_exponent_int=\count155
+\l_fp_input_b_sign_int=\count156
+\l_fp_input_b_integer_int=\count157
+\l_fp_input_b_decimal_int=\count158
+\l_fp_input_b_exponent_int=\count159
+\l_fp_input_a_extended_int=\count160
+\l_fp_input_b_extended_int=\count161
+\l_fp_mul_a_i_int=\count162
+\l_fp_mul_a_ii_int=\count163
+\l_fp_mul_a_iii_int=\count164
+\l_fp_mul_a_iv_int=\count165
+\l_fp_mul_a_v_int=\count166
+\l_fp_mul_a_vi_int=\count167
+\l_fp_mul_b_i_int=\count168
+\l_fp_mul_b_ii_int=\count169
+\l_fp_mul_b_iii_int=\count170
+\l_fp_mul_b_iv_int=\count171
+\l_fp_mul_b_v_int=\count172
+\l_fp_mul_b_vi_int=\count173
+\l_fp_mul_output_int=\count174
+\l_fp_output_sign_int=\count175
+\l_fp_output_integer_int=\count176
+\l_fp_output_decimal_int=\count177
+\l_fp_output_exponent_int=\count178
+\l_fp_output_extended_int=\count179
+\l_fp_round_position_int=\count180
+\l_fp_round_target_int=\count181
+\l_fp_split_sign_int=\count182
+\l_fp_tmp_int=\count183
+\l_fp_trig_octant_int=\count184
+\l_fp_trig_sign_int=\count185
+\l_fp_trig_decimal_int=\count186
+\l_fp_trig_extended_int=\count187
+\l_fp_tmp_dim=\dimen138
+\l_fp_tmp_skip=\skip71
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3luatex.sty
+Package: l3luatex 2010/07/18 v1985 L3 Experimental LuaTeX functions
+\g_cctab_allocate_int=\count188
+\g_cctab_stack_int=\count189
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count190
+\calc@Bcount=\count191
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip72
+\calc@Bskip=\skip73
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count192
+\calc@Cskip=\skip74
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xpackages/xbase/xparse.sty
+Package: xparse 2011/04/08 v2219 Generic document command parser
+\c_xparse_shorthands_prop=\toks46
+\l_xparse_m_args_int=\count193
+\l_xparse_mandatory_args_int=\count194
+\l_xparse_processor_int=\count195
+\l_xparse_total_args_int=\count196
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/kastrup/binhex.tex)
+\l_fontspec_script_int=\count197
+\l_fontspec_language_int=\count198
+\l_fontspec_strnum_int=\count199
+Variant \tl_gset:cV already defined; not changing it on line 83
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
+\XKV@depth=\count200
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2011/02/26 v2.1f Advanced font selection for XeLaTeX/
+LuaLaTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 29.
+LaTeX Info: Redefining \- on input line 32.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2011/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2010/11/06 v0.96 provides access to latin accents and many o
+ther characters in Unicode lower plane
+)
+ LaTeX info: Defining document command \fontspec
+(LaTeX)  with arg. spec. 'O{}m' on line 335.
+
+ LaTeX info: Defining document command \setmainfont
+(LaTeX)  with arg. spec. 'O{}m' on line 339.
+
+ LaTeX info: Defining document command \setsansfont
+(LaTeX)  with arg. spec. 'O{}m' on line 343.
+
+ LaTeX info: Defining document command \setmonofont
+(LaTeX)  with arg. spec. 'O{}m' on line 347.
+
+ LaTeX info: Defining document command \setmathrm
+(LaTeX)  with arg. spec. 'O{}m' on line 351.
+
+ LaTeX info: Defining document command \setboldmathrm
+(LaTeX)  with arg. spec. 'O{}m' on line 354.
+
+ LaTeX info: Defining document command \setmathsf
+(LaTeX)  with arg. spec. 'O{}m' on line 357.
+
+ LaTeX info: Defining document command \setmathtt
+(LaTeX)  with arg. spec. 'O{}m' on line 360.
+
+ LaTeX info: Defining document command \newfontfamily
+(LaTeX)  with arg. spec. 'mO{}m' on line 377.
+
+ LaTeX info: Defining document command \newfontface
+(LaTeX)  with arg. spec. 'mO{}m' on line 380.
+
+ LaTeX info: Defining document command \defaultfontfeatures
+(LaTeX)  with arg. spec. 'm' on line 383.
+
+ LaTeX info: Defining document command \addfontfeatures
+(LaTeX)  with arg. spec. 'm' on line 400.
+
+ LaTeX info: Defining document command \newfontfeature
+(LaTeX)  with arg. spec. 'mm' on line 407.
+
+ LaTeX info: Defining document command \newAATfeature
+(LaTeX)  with arg. spec. 'mmmm' on line 416.
+
+ LaTeX info: Defining document command \newICUfeature
+(LaTeX)  with arg. spec. 'mmm' on line 425.
+
+ LaTeX info: Defining document command \aliasfontfeature
+(LaTeX)  with arg. spec. 'mm' on line 427.
+
+ LaTeX info: Defining document command \aliasfontfeatureoption
+(LaTeX)  with arg. spec. 'mmm' on line 430.
+
+ LaTeX info: Defining document command \newfontscript
+(LaTeX)  with arg. spec. 'mm' on line 435.
+
+ LaTeX info: Defining document command \newfontlanguage
+(LaTeX)  with arg. spec. 'mm' on line 457.
+
+ LaTeX info: Defining document command \DeclareFontsExtensions
+(LaTeX)  with arg. spec. 'm' on line 474.
+
+\c@fontspec_tmp_int=\count201
+LaTeX Info: Redefining \itshape on input line 2105.
+LaTeX Info: Redefining \slshape on input line 2109.
+LaTeX Info: Redefining \scshape on input line 2113.
+LaTeX Info: Redefining \upshape on input line 2117.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fontspec/fontspec.cfg))
+ fontspec info: Font Apple LiSung Light does not contain any OpenType `Script' 
+information.
+
+Normal \count register pool exhausted, switching to extended pool.
+\g_fontspec_family_Apple LiSung Light_int=\count277
+ fontspec info: Defining font family 'AppleLiSungLight(0)' for font 'Apple LiSu
+ng Light' with options [].
+
+\g_fontspec_AppleLiSungLight(0)_prop=\toks49
+ fontspec info: Defining shape 'normal' with NFSS spec.:
+(fontspec)  <->"Apple LiSung Light/AAT:"
+
+ fontspec info: Could not resolve font Apple LiSung Light/B (it probably doesn'
+t exist).
+
+ fontspec info: Could not resolve font Apple LiSung Light/I (it probably doesn'
+t exist).
+
+ fontspec info: Could not resolve font Apple LiSung Light/BI (it probably doesn
+'t exist).
+
+ fontspec info: Font Didot does not contain any OpenType `Script' information.
+
+\g_fontspec_family_Didot_int=\count278
+ fontspec info: Defining font family 'Didot(0)' for font 'Didot' with options [
+].
+
+\g_fontspec_Didot(0)_prop=\toks50
+ fontspec info: Defining shape 'normal' with NFSS spec.:
+(fontspec)  <->"Didot/AAT:"
+
+ fontspec info: Defining shape 'small caps' with NFSS spec.:
+(fontspec)  <->"Didot/AAT:Small Capitals=Small Capitals;"
+
+ fontspec info: Defining shape 'bold' with NFSS spec.:
+(fontspec)  <->"Didot/B/AAT:"
+
+ fontspec info: Defining shape 'italic' with NFSS spec.:
+(fontspec)  <->"Didot/I/AAT:"
+
+ fontspec info: Defining shape 'bold italic' with NFSS spec.:
+(fontspec)  <->"Didot/BI/AAT:"
+
+
+No file CPGS.aux.
+\openout1 = `CPGS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 45.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+Option `amssymb' provided! 
+ Command \square redefined by SIunits package!
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 45.
+Package caption Info: End \AtBeginDocument code.
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=462.92653pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=-9.95863pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box31
+ fontspec info: Adjusting the maths setup (use [no-math] to avoid this).
+
+\symlegacymaths=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
+LaTeX Font Info:    Redeclaring math accent \check on input line 45.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 45.
+(./title.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+esint on input line 10.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/esint/uesint.fd
+File: uesint.fd 
+) [1
+
+
+
+]) [2]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 86.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [3
+
+] [4
+
+]
+(./summary.tex) [5] [6
+
+]
+No file CPGS.toc.
+\tf@toc=\write3
+\openout3 = `CPGS.toc'.
+
+[7
+
+] [8
+
+] (./superalloys.tex
+Chapter 1.
+
+LaTeX Warning: Reference `fig:TET' on page 9 undefined on input line 2.
+
+
+LaTeX Warning: Reference `fig:FuelBurn' on page 9 undefined on input line 2.
+
+
+LaTeX Warning: Citation `dimiduk03' on page 9 undefined on input line 2.
+
+File: TET.jpg Graphic file (type QTm)
+<use  "TET.jpg" >
+File: FuelBurn.jpg Graphic file (type QTm)
+ <use  "FuelBurn.jpg" >
+
+LaTeX Warning: Citation `reed06' on page 9 undefined on input line 19.
+
+
+LaTeX Warning: Citation `betteridge87' on page 9 undefined on input line 19.
+
+
+LaTeX Warning: Citation `sims87' on page 9 undefined on input line 19.
+
+
+LaTeX Warning: Citation `reed06' on page 9 undefined on input line 21.
+
+
+LaTeX Warning: Citation `cumpsty97' on page 9 undefined on input line 21.
+
+
+LaTeX Warning: Citation `yeh04' on page 9 undefined on input line 21.
+
+
+LaTeX Warning: Citation `hobbs08' on page 9 undefined on input line 21.
+
+[9
+
+] [10]
+
+LaTeX Warning: Citation `chang91' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `fleischer94' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `fleischer85a' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `jackson96' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `kelly91' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `kelly96' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `kumar94' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `miracle94b' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `sauthoff88' on page 11 undefined on input line 23.
+
+
+LaTeX Warning: Citation `shah92' on page 11 undefined on input line 23.
+
+[11] [12
+
+]
+Chapter 2.
+
+LaTeX Warning: Citation `sims87' on page 13 undefined on input line 28.
+
+
+LaTeX Warning: Citation `reed06' on page 13 undefined on input line 28.
+
+
+LaTeX Warning: Reference `fig:evolution' on page 13 undefined on input line 28.
+
+
+File: SuperalloyEvolution.jpg Graphic file (type QTm)
+<use  "SuperalloyEvolution.jpg" >
+
+LaTeX Warning: Citation `sims87' on page 13 undefined on input line 33.
+
+
+LaTeX Warning: Citation `sims87' on page 13 undefined on input line 33.
+
+
+LaTeX Warning: Citation `reed99' on page 13 undefined on input line 40.
+
+
+LaTeX Warning: Citation `yeh04' on page 13 undefined on input line 40.
+
+[13] [14]
+
+LaTeX Warning: Citation `copley67' on page 15 undefined on input line 58.
+
+
+LaTeX Warning: Citation `reed06' on page 15 undefined on input line 60.
+
+
+LaTeX Warning: Citation `copley67' on page 15 undefined on input line 60.
+
+[15]
+
+LaTeX Warning: Citation `reed06' on page 16 undefined on input line 65.
+
+
+LaTeX Warning: Citation `mackay83' on page 16 undefined on input line 67.
+
+
+LaTeX Warning: Citation `harada06' on page 16 undefined on input line 69.
+
+
+LaTeX Warning: Citation `reed04' on page 16 undefined on input line 76.
+
+[16]
+
+LaTeX Warning: Citation `nabarro96' on page 17 undefined on input line 78.
+
+
+LaTeX Warning: Citation `reed06' on page 17 undefined on input line 85.
+
+
+LaTeX Warning: Citation `nabarro96' on page 17 undefined on input line 95.
+
+
+LaTeX Warning: Citation `reed99' on page 17 undefined on input line 95.
+
+[17]
+
+LaTeX Warning: Citation `nabarro95' on page 18 undefined on input line 99.
+
+
+LaTeX Warning: Reference `fig:LDSX8disloc' on page 18 undefined on input line 1
+05.
+
+
+LaTeX Warning: Reference `fig:LDSX1faults' on page 18 undefined on input line 1
+05.
+
+File: LDSX8disloc.jpg Graphic file (type QTm)
+<use  "LDSX8disloc.jpg" >
+File: LDSX1faults.jpg Graphic file (type QTm)
+ <use  "LDSX1faults.jpg" > [18]
+
+LaTeX Warning: Reference `fig:CoherencyStress' on page 19 undefined on input li
+ne 125.
+
+
+LaTeX Warning: Reference `fig:LDSX6rafts' on page 19 undefined on input line 12
+5.
+
+File: CoherencyStress.jpg Graphic file (type QTm)
+<use  "CoherencyStress.jpg" >
+
+LaTeX Warning: Citation `reed06' on page 19 undefined on input line 130.
+
+
+LaTeX Warning: Citation `reed06' on page 19 undefined on input line 130.
+
+File: LDSX6rafts.jpg Graphic file (type QTm)
+<use  "LDSX6rafts.jpg" > [19]
+
+LaTeX Warning: Citation `mackay83' on page 20 undefined on input line 144.
+
+
+LaTeX Warning: Citation `hobbs08' on page 20 undefined on input line 150.
+
+
+LaTeX Warning: Citation `harada88' on page 20 undefined on input line 156.
+
+[20]
+
+LaTeX Warning: Citation `harada88' on page 21 undefined on input line 176.
+
+
+LaTeX Warning: Citation `harada88' on page 21 undefined on input line 176.
+
+
+LaTeX Warning: Citation `harada88' on page 21 undefined on input line 189.
+
+[21]
+
+LaTeX Warning: Reference `fig:SLi' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Reference `fig:SLii' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Reference `fig:SLiii' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Citation `willemin86' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Citation `alekseeva93' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Citation `sokolovskaya85' on page 22 undefined on input line 193
+.
+
+
+LaTeX Warning: Citation `kainuma96' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Citation `oforka85' on page 22 undefined on input line 193.
+
+
+LaTeX Warning: Citation `kubaschewski93' on page 22 undefined on input line 193
+.
+
+
+LaTeX Warning: Reference `fig:SLi' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Reference `fig:SLi' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Citation `hong89' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Citation `udovskii91' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Citation `kainuma96' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Reference `fig:SLi' on page 22 undefined on input line 195.
+
+
+LaTeX Warning: Citation `trety93' on page 22 undefined on input line 195.
+
+File: NiAlTa1250.png Graphic file (type QTm)
+<use  "NiAlTa1250.png" >
+File: NiAlW1250.png Graphic file (type QTm)
+ <use  "NiAlW1250.png" >
+
+LaTeX Warning: Citation `willemin86' on page 22 undefined on input line 218.
+
+
+LaTeX Warning: Citation `alekseeva93' on page 22 undefined on input line 218.
+
+
+LaTeX Warning: Citation `willemin86' on page 22 undefined on input line 218.
+
+
+LaTeX Warning: Citation `alekseeva93' on page 22 undefined on input line 218.
+
+File: NiAlRu.png Graphic file (type QTm)
+<use  "NiAlRu.png" >
+File: NiAlCo1100.png Graphic file (type QTm)
+ <use  "NiAlCo1100.png" >
+
+LaTeX Warning: Citation `sokolovskaya85' on page 22 undefined on input line 227
+.
+
+
+LaTeX Warning: Citation `kainuma96' on page 22 undefined on input line 227.
+
+
+LaTeX Warning: Citation `sokolovskaya85' on page 22 undefined on input line 227
+.
+
+
+LaTeX Warning: Citation `kainuma96' on page 22 undefined on input line 227.
+
+[22] [23]
+File: NiAlCr1150.png Graphic file (type QTm)
+ <use  "NiAlCr1150.png" >
+File: NiAlMo930.png Graphic file (type QTm)
+ <use  "NiAlMo930.png" >
+
+LaTeX Warning: Citation `oforka85' on page 24 undefined on input line 237.
+
+
+LaTeX Warning: Citation `kubaschewski93' on page 24 undefined on input line 237
+.
+
+
+LaTeX Warning: Citation `oforka85' on page 24 undefined on input line 237.
+
+
+LaTeX Warning: Citation `kubaschewski93' on page 24 undefined on input line 237
+.
+
+[24] [25] [26]
+
+LaTeX Warning: Citation `nesbitt93' on page 27 undefined on input line 259.
+
+
+LaTeX Warning: Citation `shah92' on page 27 undefined on input line 259.
+
+[27
+
+]) (./silicideintro.tex [28]
+Chapter 3.
+
+Overfull \hbox (1.82993pt too wide) in paragraph at lines 5--6
+[]\EU1/lmr/m/n/10.95 This leaves us with two categories of systems that have su
+itable candidates for high-temperature
+ []
+
+
+LaTeX Warning: Reference `fig:CeramicsIntermetallics' on page 29 undefined on i
+nput line 7.
+
+
+LaTeX Warning: Citation `evans80' on page 29 undefined on input line 7.
+
+
+LaTeX Warning: Citation `nathal92' on page 29 undefined on input line 9.
+
+
+LaTeX Warning: Citation `balsone01' on page 29 undefined on input line 9.
+
+
+LaTeX Warning: Citation `flinn89' on page 29 undefined on input line 13.
+
+
+LaTeX Warning: Citation `evans86' on page 29 undefined on input line 14.
+
+
+LaTeX Warning: Citation `strum94' on page 29 undefined on input line 15.
+
+
+LaTeX Warning: Citation `kumar91' on page 29 undefined on input line 16.
+
+
+LaTeX Warning: Citation `kumar91' on page 29 undefined on input line 19.
+
+[29
+
+]
+File: CeramicsIntermetallics.jpg Graphic file (type QTm)
+ <use  "CeramicsIntermetallics.jpg" >
+
+LaTeX Warning: Citation `nathal92' on page 30 undefined on input line 26.
+
+
+LaTeX Warning: Citation `nathal92' on page 30 undefined on input line 26.
+
+
+LaTeX Warning: Reference `fig:oxidepermeability' on page 30 undefined on input 
+line 31.
+
+File: oxides.png Graphic file (type QTm)
+<use  "oxides.png" >
+
+LaTeX Warning: Citation `nesbitt93' on page 30 undefined on input line 37.
+
+
+LaTeX Warning: Citation `nesbitt93' on page 30 undefined on input line 37.
+
+[30]
+
+LaTeX Warning: Citation `wenderoth05' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Citation `mitarai98' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Citation `mitarai97' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Citation `mitarai99' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Reference `fig:ir17nb' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Reference `fig:irnb' on page 31 undefined on input line 45.
+
+
+LaTeX Warning: Reference `fig:LDSXInterrupted' on page 31 undefined on input li
+ne 47.
+
+
+LaTeX Warning: Reference `fig:ir17nb' on page 31 undefined on input line 47.
+
+
+LaTeX Warning: Citation `okamoto94ir' on page 31 undefined on input line 47.
+
+
+LaTeX Warning: Reference `fig:ir17nbi' on page 31 undefined on input line 49.
+
+
+LaTeX Warning: Citation `mitarai99' on page 31 undefined on input line 49.
+
+[31]
+File: ir17nb.png Graphic file (type QTm)
+ <use  "ir17nb.png" >
+File: ir15zr.png Graphic file (type QTm)
+ <use  "ir15zr.png" >
+
+LaTeX Warning: Citation `mitarai98' on page 32 undefined on input line 59.
+
+
+LaTeX Warning: Citation `mitarai99' on page 32 undefined on input line 59.
+
+
+LaTeX Warning: Citation `mitarai98' on page 32 undefined on input line 59.
+
+
+LaTeX Warning: Citation `mitarai99' on page 32 undefined on input line 59.
+
+File: irnb.png Graphic file (type QTm)
+<use  "irnb.png" >
+
+LaTeX Warning: Citation `okamoto94ir' on page 32 undefined on input line 68.
+
+
+LaTeX Warning: Citation `okamoto94ir' on page 32 undefined on input line 68.
+
+File: LDSXInterrupted.jpg Graphic file (type QTm)
+<use  "LDSXInterrupted.jpg" >
+File: irflowstress.png Graphic file (type QTm)
+ <use  "irflowstress.png" >
+
+LaTeX Warning: Citation `mitarai99' on page 32 undefined on input line 86.
+
+
+LaTeX Warning: Citation `mitarai99' on page 32 undefined on input line 86.
+
+[32] [33]
+
+LaTeX Warning: Citation `cotton93' on page 34 undefined on input line 94.
+
+
+LaTeX Warning: Citation `miracle94a' on page 34 undefined on input line 94.
+
+
+LaTeX Warning: Citation `walston93' on page 34 undefined on input line 94.
+
+
+LaTeX Warning: Citation `white89' on page 34 undefined on input line 94.
+
+
+LaTeX Warning: Citation `nathal92' on page 34 undefined on input line 94.
+
+
+LaTeX Warning: Reference `fig:NiAl' on page 34 undefined on input line 96.
+
+
+LaTeX Warning: Citation `okamoto93' on page 34 undefined on input line 96.
+
+
+LaTeX Warning: Reference `fig:gpvolfrac' on page 34 undefined on input line 96.
+
+
+
+LaTeX Warning: Reference `fig:NiAl' on page 34 undefined on input line 98.
+
+
+LaTeX Warning: Citation `okamoto93' on page 34 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig:NiAlLM' on page 34 undefined on input line 98.
+
+
+LaTeX Warning: Citation `reed06' on page 34 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig:NiAlLM' on page 34 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig:NiAlys' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Citation `noebe96' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Citation `loretto71' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Citation `fraser73a' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Citation `fraser73b' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Citation `kumar91' on page 34 undefined on input line 100.
+
+
+LaTeX Warning: Reference `fig:NiAlCo' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `jung87' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Reference `fig:NiAlLM' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `miracle94a' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `walston93' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `darolia93' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `polvani76' on page 34 undefined on input line 102.
+
+
+LaTeX Warning: Citation `miracle94a' on page 34 undefined on input line 102.
+
+File: NiAl.png Graphic file (type QTm)
+<use  "NiAl.png" >
+
+LaTeX Warning: Citation `okamoto93' on page 34 undefined on input line 107.
+
+
+LaTeX Warning: Citation `okamoto93' on page 34 undefined on input line 107.
+
+File: gpvolfrac.png Graphic file (type QTm)
+<use  "gpvolfrac.png" >
+
+LaTeX Warning: Citation `harada82' on page 34 undefined on input line 116.
+
+
+LaTeX Warning: Citation `harada82' on page 34 undefined on input line 116.
+
+[34
+
+]
+File: NiAlLM.png Graphic file (type QTm)
+ <use  "NiAlLM.png" >
+
+LaTeX Warning: Citation `walston93' on page 35 undefined on input line 126.
+
+
+LaTeX Warning: Citation `walston93' on page 35 undefined on input line 126.
+
+File: NiAlys.png Graphic file (type QTm)
+<use  "NiAlys.png" >
+
+LaTeX Warning: Citation `noebe96' on page 35 undefined on input line 135.
+
+
+LaTeX Warning: Citation `noebe96' on page 35 undefined on input line 135.
+
+[35]
+File: NiAlCo.png Graphic file (type QTm)
+ <use  "NiAlCo.png" >
+
+LaTeX Warning: Citation `jung87' on page 36 undefined on input line 144.
+
+
+LaTeX Warning: Citation `jung87' on page 36 undefined on input line 144.
+
+[36]
+
+LaTeX Warning: Reference `fig:LMplotforintermetallics' on page 37 undefined on 
+input line 151.
+
+
+LaTeX Warning: Reference `fig:darolia96' on page 37 undefined on input line 153
+.
+
+
+LaTeX Warning: Citation `darolia96' on page 37 undefined on input line 153.
+
+
+LaTeX Warning: Reference `fig:coal' on page 37 undefined on input line 155.
+
+
+LaTeX Warning: Citation `anton89' on page 37 undefined on input line 155.
+
+
+LaTeX Warning: Citation `jung87' on page 37 undefined on input line 155.
+
+File: darolia96.png Graphic file (type QTm)
+<use  "darolia96.png" >
+
+LaTeX Warning: Citation `darolia96' on page 37 undefined on input line 161.
+
+
+LaTeX Warning: Citation `darolia96' on page 37 undefined on input line 161.
+
+[37]
+File: coal.png Graphic file (type QTm)
+ <use  "coal.png" >
+
+LaTeX Warning: Citation `mcalister90' on page 38 undefined on input line 171.
+
+
+LaTeX Warning: Citation `mcalister90' on page 38 undefined on input line 171.
+
+File: nbalys.png Graphic file (type QTm)
+<use  "nbalys.png" > [38]
+
+LaTeX Warning: Reference `fig:nbalys' on page 39 undefined on input line 187.
+
+
+LaTeX Warning: Citation `bewlay03' on page 39 undefined on input line 187.
+
+
+LaTeX Warning: Citation `nesbitt93' on page 39 undefined on input line 187.
+
+
+LaTeX Warning: Citation `ochiai06' on page 39 undefined on input line 187.
+
+
+LaTeX Warning: Citation `shah92' on page 39 undefined on input line 187.
+
+File: pest.png Graphic file (type QTm)
+<use  "pest.png" > [39]
+
+LaTeX Warning: Citation `perez02' on page 40 undefined on input line 205.
+
+
+LaTeX Warning: Citation `hallstedt92' on page 40 undefined on input line 210.
+
+
+LaTeX Warning: Citation `brady00' on page 40 undefined on input line 212.
+
+
+LaTeX Warning: Citation `schneibel03' on page 40 undefined on input line 212.
+
+
+LaTeX Warning: Citation `sadananda99' on page 40 undefined on input line 212.
+
+[40]
+
+LaTeX Warning: Reference `fig:conbzr' on page 41 undefined on input line 221.
+
+
+LaTeX Warning: Citation `anton92' on page 41 undefined on input line 221.
+
+
+LaTeX Warning: Citation `kumar94hf' on page 41 undefined on input line 221.
+
+
+LaTeX Warning: Reference `fig:LMplotforintermetallics' on page 41 undefined on 
+input line 221.
+
+
+LaTeX Warning: Reference `subsection:MoSis' on page 41 undefined on input line 
+221.
+
+
+LaTeX Warning: Citation `anton92' on page 41 undefined on input line 223.
+
+
+LaTeX Warning: Citation `anton92' on page 41 undefined on input line 225.
+
+
+LaTeX Warning: Citation `nesbitt93' on page 41 undefined on input line 225.
+
+File: LMplotforintermetallics.png Graphic file (type QTm)
+<use  "LMplotforintermetallics.png" >
+
+LaTeX Warning: Citation `anton89' on page 41 undefined on input line 230.
+
+
+LaTeX Warning: Citation `anton89b' on page 41 undefined on input line 230.
+
+
+LaTeX Warning: Citation `shah95' on page 41 undefined on input line 230.
+
+
+LaTeX Warning: Citation `anton89' on page 41 undefined on input line 230.
+
+
+LaTeX Warning: Citation `anton89b' on page 41 undefined on input line 230.
+
+
+LaTeX Warning: Citation `shah95' on page 41 undefined on input line 230.
+
+File: conbzr.png Graphic file (type QTm)
+<use  "conbzr.png" >
+File: q.png Graphic file (type QTm)
+ <use  "q.png" >
+
+LaTeX Warning: Citation `anton92' on page 41 undefined on input line 240.
+
+
+LaTeX Warning: Citation `anton92' on page 41 undefined on input line 240.
+
+[41] [42]
+
+LaTeX Warning: Citation `miracle94b' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `mitra06' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `ochiai06' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `sauthoff88' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `yanagihara96' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `ramberg93' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `tomasi97' on page 43 undefined on input line 249.
+
+
+LaTeX Warning: Citation `raj95a' on page 43 undefined on input line 249.
+
+[43]
+
+LaTeX Warning: Citation `kumar94' on page 44 undefined on input line 251.
+
+
+LaTeX Warning: Citation `miracle94b' on page 44 undefined on input line 251.
+
+
+LaTeX Warning: Citation `shah92' on page 44 undefined on input line 251.
+
+
+LaTeX Warning: Citation `sadananda99' on page 44 undefined on input line 251.
+
+
+LaTeX Warning: Reference `fig:creepshah92_1' on page 44 undefined on input line
+ 253.
+
+
+LaTeX Warning: Reference `fig:creepshah92_2' on page 44 undefined on input line
+ 253.
+
+File: creepshah92_1.png Graphic file (type QTm)
+<use  "creepshah92_1.png" >
+
+LaTeX Warning: Citation `shah92' on page 44 undefined on input line 259.
+
+
+LaTeX Warning: Citation `shah92' on page 44 undefined on input line 259.
+
+File: creepshah92_2.jpg Graphic file (type QTm)
+<use  "creepshah92_2.jpg" >
+
+LaTeX Warning: Citation `shah92' on page 44 undefined on input line 267.
+
+
+LaTeX Warning: Citation `shah92' on page 44 undefined on input line 267.
+
+[44]
+
+LaTeX Warning: Citation `svechnikov70' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `brady00' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `mitra06' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `raj95a' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `ochiai06' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `inui00' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `ochiai06' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `shah92' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Citation `yanagihara96' on page 45 undefined on input line 278.
+
+
+LaTeX Warning: Reference `fig:MoSi2_oxidation' on page 45 undefined on input li
+ne 278.
+
+
+LaTeX Warning: Reference `fig:MoSi' on page 45 undefined on input line 280.
+
+
+LaTeX Warning: Citation `svechnikov70' on page 45 undefined on input line 280.
+
+File: MoSi2_oxidation.jpg Graphic file (type QTm)
+<use  "MoSi2_oxidation.jpg" >
+
+LaTeX Warning: Citation `inui00' on page 45 undefined on input line 286.
+
+
+LaTeX Warning: Citation `inui00' on page 45 undefined on input line 286.
+
+[45]
+File: MoSi.jpg Graphic file (type QTm)
+ <use  "MoSi.jpg" >
+
+LaTeX Warning: Citation `svechnikov70' on page 46 undefined on input line 299.
+
+
+LaTeX Warning: Citation `svechnikov70' on page 46 undefined on input line 299.
+
+[46]
+
+LaTeX Warning: Citation `rosales00' on page 47 undefined on input line 306.
+
+
+LaTeX Warning: Citation `swadener01' on page 47 undefined on input line 306.
+
+Missing character: There is no ̉ in font cmmi10!
+
+LaTeX Warning: Citation `swadener01' on page 47 undefined on input line 306.
+
+
+LaTeX Warning: Reference `fig:LMplotforintermetallics' on page 47 undefined on 
+input line 308.
+
+
+LaTeX Warning: Citation `svechnikov70' on page 47 undefined on input line 308.
+
+
+LaTeX Warning: Citation `sakidja08' on page 47 undefined on input line 308.
+
+Missing character: There is no ̉ in font cmmi10!
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 308.
+
+
+LaTeX Warning: Citation `anton89' on page 47 undefined on input line 308.
+
+
+LaTeX Warning: Citation `anton89b' on page 47 undefined on input line 308.
+
+
+LaTeX Warning: Reference `fig:MoSi2_oxidation' on page 47 undefined on input li
+ne 310.
+
+
+LaTeX Warning: Citation `anton89' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `kishida10' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `shah95' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `shah92' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `dimiduk03' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `dimiduk03' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Citation `sekido07' on page 47 undefined on input line 310.
+
+
+LaTeX Warning: Reference `fig:Mo5Si3_oxidation' on page 47 undefined on input l
+ine 312.
+
+
+LaTeX Warning: Citation `brewer90' on page 47 undefined on input line 312.
+
+
+LaTeX Warning: Reference `fig:MoSi_oxidationpictures' on page 47 undefined on i
+nput line 312.
+
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 312.
+
+File: Mo5Si3_oxidation.jpg Graphic file (type QTm)
+<use  "Mo5Si3_oxidation.jpg" >
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 320.
+
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 320.
+
+File: MoSi_oxidationpictures.jpg Graphic file (type QTm)
+<use  "MoSi_oxidationpictures.jpg" >
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 329.
+
+
+LaTeX Warning: Citation `akinc99' on page 47 undefined on input line 329.
+
+[47
+
+]
+
+LaTeX Warning: Citation `hayashi04' on page 48 undefined on input line 338.
+
+
+LaTeX Warning: Citation `ito01' on page 48 undefined on input line 338.
+
+
+LaTeX Warning: Reference `fig:T2structure' on page 48 undefined on input line 3
+40.
+
+
+LaTeX Warning: Citation `rawn01' on page 48 undefined on input line 340.
+
+
+LaTeX Warning: Citation `sakidja08' on page 48 undefined on input line 340.
+
+[48]
+File: t2structure.png Graphic file (type QTm)
+ <use  "t2structure.png" >
+
+LaTeX Warning: Citation `sakidja08' on page 49 undefined on input line 348.
+
+
+LaTeX Warning: Citation `sakidja08' on page 49 undefined on input line 348.
+
+File: MoSiB_1600.jpg Graphic file (type QTm)
+<use  "MoSiB_1600.jpg" >
+
+LaTeX Warning: Citation `nowotny57' on page 49 undefined on input line 358.
+
+
+LaTeX Warning: Citation `nowotny57' on page 49 undefined on input line 358.
+
+File: Mo-Mo5SiB2.jpg Graphic file (type QTm)
+<use  "Mo-Mo5SiB2.jpg" >
+
+LaTeX Warning: Citation `yoshimi03' on page 49 undefined on input line 367.
+
+
+LaTeX Warning: Citation `yoshimi03' on page 49 undefined on input line 367.
+
+[49] [50]
+
+LaTeX Warning: Reference `fig:MoSiB_1600' on page 51 undefined on input line 37
+3.
+
+
+LaTeX Warning: Citation `nowotny57' on page 51 undefined on input line 373.
+
+
+LaTeX Warning: Reference `fig:Mo-Mo5SiB2' on page 51 undefined on input line 37
+3.
+
+
+LaTeX Warning: Citation `yoshimi03' on page 51 undefined on input line 373.
+
+
+LaTeX Warning: Citation `alur04' on page 51 undefined on input line 373.
+
+
+LaTeX Warning: Reference `fig:Mo16Si8B' on page 51 undefined on input line 375.
+
+
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 375.
+
+
+LaTeX Warning: Reference `fig:MoSiB_liquidus' on page 51 undefined on input lin
+e 375.
+
+
+LaTeX Warning: Reference `fig:Mo16Si8B' on page 51 undefined on input line 375.
+
+
+
+LaTeX Warning: Reference `fig:MoSiB_witheutectic' on page 51 undefined on input
+ line 375.
+
+
+Overfull \hbox (12.88495pt too wide) in paragraph at lines 375--376
+[]\EU1/lmr/m/n/10.95 Perepezko has explored the influence of microstructure con
+trol in the manufacture of Mo–Mo$[]$SiB$[]$
+ []
+
+
+LaTeX Warning: Reference `fig:MoSiB_withNb' on page 51 undefined on input line 
+377.
+
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 377.
+
+
+LaTeX Warning: Citation `sakidja00' on page 51 undefined on input line 377.
+
+
+LaTeX Warning: Reference `fig:Mo19Nb12Si8B' on page 51 undefined on input line 
+377.
+
+File: Mo16Si8B.jpg Graphic file (type QTm)
+<use  "Mo16Si8B.jpg" >
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 383.
+
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 383.
+
+File: MoSiB_liquidus.jpg Graphic file (type QTm)
+<use  "MoSiB_liquidus.jpg" >
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 393.
+
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 393.
+
+File: MoSiB_witheutectic.jpg Graphic file (type QTm)
+<use  "MoSiB_witheutectic.jpg" >
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 402.
+
+
+LaTeX Warning: Citation `perepezko01' on page 51 undefined on input line 402.
+
+[51
+
+]
+File: MoSiB_withNb.jpg Graphic file (type QTm)
+ <use  "MoSiB_withNb.jpg" >
+
+LaTeX Warning: Citation `perepezko01' on page 52 undefined on input line 411.
+
+
+LaTeX Warning: Citation `perepezko01' on page 52 undefined on input line 411.
+
+File: Mo19Nb12Si8B.jpg Graphic file (type QTm)
+<use  "Mo19Nb12Si8B.jpg" >
+
+LaTeX Warning: Citation `perepezko01' on page 52 undefined on input line 418.
+
+
+LaTeX Warning: Citation `perepezko01' on page 52 undefined on input line 418.
+
+[52]
+
+LaTeX Warning: Citation `sekido07' on page 53 undefined on input line 423.
+
+
+LaTeX Warning: Citation `sekido07' on page 53 undefined on input line 423.
+
+File: sekido07.png Graphic file (type QTm)
+<use  "sekido07.png" >
+Missing character: There is no character number "10FC07 in font [lmroman10-regu
+lar]:mapping=tex-text!
+
+
+LaTeX Warning: Citation `sekido07' on page 53 undefined on input line 429.
+
+Missing character: There is no character number "10FC07 in font [lmroman10-regu
+lar]:mapping=tex-text!
+
+LaTeX Warning: Citation `sekido07' on page 53 undefined on input line 429.
+
+[53]
+
+LaTeX Warning: Citation `alur06' on page 54 undefined on input line 435.
+
+
+LaTeX Warning: Citation `kumar10' on page 54 undefined on input line 437.
+
+
+LaTeX Warning: Reference `fig:ku10' on page 54 undefined on input line 437.
+
+File: ku10i.png Graphic file (type QTm)
+<use  "ku10i.png" >
+File: ku10ii.png Graphic file (type QTm)
+ <use  "ku10ii.png" >
+File: ku10iii.png Graphic file (type QTm)
+ <use  "ku10iii.png" >
+
+LaTeX Warning: Citation `kumar10' on page 54 undefined on input line 446.
+
+
+LaTeX Warning: Citation `kumar10' on page 54 undefined on input line 446.
+
+[54]
+
+LaTeX Warning: Citation `sakidja08' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `nunes97' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `rodrigues09' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `sakidja08' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `perepezko01' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `sakidja00' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `sakidja05' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `sakidja08' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `sakidja08' on page 55 undefined on input line 451.
+
+
+LaTeX Warning: Citation `perepezko10' on page 55 undefined on input line 453.
+
+
+LaTeX Warning: Citation `perepezko10' on page 55 undefined on input line 453.
+
+[55]
+
+LaTeX Warning: Citation `jackson96' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `fleischer87' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `fleischer94' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `sauthoff88' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `shah92' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `bewlay03' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `miura09' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `balsone01' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `ramberg93' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `jackson96' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `fleischer87' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `fleischer94' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `sauthoff88' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `shah92' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `ramberg93' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `bewlay03' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Citation `mitra06' on page 56 undefined on input line 461.
+
+
+LaTeX Warning: Reference `fig:NbSi' on page 56 undefined on input line 463.
+
+
+LaTeX Warning: Citation `kimura05' on page 56 undefined on input line 463.
+
+
+LaTeX Warning: Reference `fig:NbSi' on page 56 undefined on input line 463.
+
+
+LaTeX Warning: Citation `bewlay01' on page 56 undefined on input line 463.
+
+File: NbSi.jpg Graphic file (type QTm)
+<use  "NbSi.jpg" >
+
+LaTeX Warning: Citation `okamoto90' on page 56 undefined on input line 470.
+
+
+LaTeX Warning: Citation `okamoto90' on page 56 undefined on input line 470.
+
+[56]
+
+LaTeX Warning: Citation `sekido10' on page 57 undefined on input line 475.
+
+
+LaTeX Warning: Citation `strum94' on page 57 undefined on input line 477.
+
+
+LaTeX Warning: Citation `shah95' on page 57 undefined on input line 477.
+
+
+LaTeX Warning: Citation `bewlay03' on page 57 undefined on input line 479.
+
+
+LaTeX Warning: Citation `vellios10' on page 57 undefined on input line 479.
+
+
+LaTeX Warning: Citation `xiong09' on page 57 undefined on input line 481.
+
+
+LaTeX Warning: Citation `zelenitsas06' on page 57 undefined on input line 481.
+
+
+LaTeX Warning: Reference `fig:zelenitsas' on page 57 undefined on input line 48
+1.
+
+
+LaTeX Warning: Reference `fig:zelenitsas' on page 57 undefined on input line 48
+1.
+
+[57]
+File: zelenitsas.png Graphic file (type QTm)
+ <use  "zelenitsas.png" >
+File: zelenitsasii.png Graphic file (type QTm)
+ <use  "zelenitsasii.png" >
+
+LaTeX Warning: Citation `zelenitsas06' on page 58 undefined on input line 489.
+
+
+LaTeX Warning: Citation `zelenitsas06' on page 58 undefined on input line 489.
+
+
+LaTeX Warning: Citation `shah95' on page 58 undefined on input line 494.
+
+
+LaTeX Warning: Citation `bewlay03' on page 58 undefined on input line 494.
+
+
+LaTeX Warning: Citation `zhan09' on page 58 undefined on input line 496.
+
+
+Overfull \hbox (16.96368pt too wide) in paragraph at lines 496--497
+\EU1/lmr/m/n/10.95 tems. It improves oxidation behaviour in Ti-Al and Zr-based 
+alloys  [[]]. The (Nb,Mo)s.s.–(Nb,Mo)$[]$Si$[]$
+ []
+
+
+LaTeX Warning: Reference `fig:CrSi' on page 58 undefined on input line 501.
+
+
+LaTeX Warning: Citation `gokhale90' on page 58 undefined on input line 501.
+
+
+LaTeX Warning: Reference `fig:BCC' on page 58 undefined on input line 501.
+
+
+LaTeX Warning: Reference `fig:A15' on page 58 undefined on input line 501.
+
+File: CrSi.jpg Graphic file (type QTm)
+<use  "CrSi.jpg" >
+File: BCC.jpg Graphic file (type QTm)
+ <use  "BCC.jpg" >
+
+LaTeX Warning: Citation `ashcroft76' on page 58 undefined on input line 515.
+
+
+LaTeX Warning: Citation `ashcroft76' on page 58 undefined on input line 515.
+
+[58]
+
+LaTeX Warning: Reference `fig:Cr_ductility' on page 59 undefined on input line 
+519.
+
+
+LaTeX Warning: Citation `abrahamson57' on page 59 undefined on input line 519.
+
+[59]
+
+LaTeX Warning: Reference `fig:crag' on page 60 undefined on input line 522.
+
+
+LaTeX Warning: Citation `gu07' on page 60 undefined on input line 522.
+
+
+LaTeX Warning: Citation `fleischer89' on page 60 undefined on input line 524.
+
+
+LaTeX Warning: Citation `mitra06' on page 60 undefined on input line 524.
+
+
+LaTeX Warning: Citation `raj95a' on page 60 undefined on input line 524.
+
+
+LaTeX Warning: Citation `tomasi97' on page 60 undefined on input line 524.
+
+File: A15.jpg Graphic file (type QTm)
+<use  "A15.jpg" >
+
+LaTeX Warning: Citation `nevitt95' on page 60 undefined on input line 530.
+
+
+LaTeX Warning: Citation `nevitt95' on page 60 undefined on input line 530.
+
+File: Cr_ductility.jpg Graphic file (type QTm)
+<use  "Cr_ductility.jpg" >
+
+LaTeX Warning: Citation `abrahamson57' on page 60 undefined on input line 539.
+
+
+LaTeX Warning: Citation `abrahamson57' on page 60 undefined on input line 539.
+
+File: crag.jpg Graphic file (type QTm)
+<use  "crag.jpg" >
+
+LaTeX Warning: Citation `gu07' on page 60 undefined on input line 548.
+
+
+LaTeX Warning: Citation `gu07' on page 60 undefined on input line 548.
+
+[60] [61]
+
+LaTeX Warning: Reference `fig:CrSi' on page 62 undefined on input line 553.
+
+
+LaTeX Warning: Reference `fig:CrCr3Si _micros' on page 62 undefined on input li
+ne 553.
+
+
+LaTeX Warning: Citation `bei03a' on page 62 undefined on input line 553.
+
+
+LaTeX Warning: Reference `fig:DS_CrCr3Si' on page 62 undefined on input line 55
+3.
+
+
+LaTeX Warning: Reference `fig:funnel' on page 62 undefined on input line 553.
+
+
+LaTeX Warning: Reference `fig:degenerate' on page 62 undefined on input line 55
+3.
+
+
+LaTeX Warning: Reference `fig:funnel' on page 62 undefined on input line 553.
+
+
+LaTeX Warning: Citation `raj95' on page 62 undefined on input line 555.
+
+File: ireallylovewill.jpg Graphic file (type QTm)
+<use  "ireallylovewill.jpg" >
+
+LaTeX Warning: Citation `bei03a' on page 62 undefined on input line 561.
+
+
+LaTeX Warning: Citation `bei03a' on page 62 undefined on input line 561.
+
+File: DS_Cr-Cr3Si.jpg Graphic file (type QTm)
+<use  "DS_Cr-Cr3Si.jpg" >
+
+LaTeX Warning: Citation `bei03' on page 62 undefined on input line 570.
+
+
+LaTeX Warning: Citation `bei03' on page 62 undefined on input line 570.
+
+File: DS_Cr-Cr3Si_bad.jpg Graphic file (type QTm)
+<use  "DS_Cr-Cr3Si_bad.jpg" >
+
+LaTeX Warning: Citation `bei03' on page 62 undefined on input line 580.
+
+
+LaTeX Warning: Citation `bei03' on page 62 undefined on input line 580.
+
+File: funnel.png Graphic file (type QTm)
+<use  "funnel.png" >
+
+LaTeX Warning: Citation `bei03a' on page 62 undefined on input line 588.
+
+
+LaTeX Warning: Citation `bei03a' on page 62 undefined on input line 588.
+
+[62
+
+] [63]
+File: Cr3Si_alloying.jpg Graphic file (type QTm)
+ <use  "Cr3Si_alloying.jpg" >
+
+LaTeX Warning: Citation `shah92' on page 64 undefined on input line 598.
+
+
+LaTeX Warning: Citation `shah92' on page 64 undefined on input line 598.
+
+[64]
+
+LaTeX Warning: Citation `schoonover08' on page 65 undefined on input line 605.
+
+
+LaTeX Warning: Citation `yang09' on page 65 undefined on input line 605.
+
+
+LaTeX Warning: Reference `fig:crhfsieut' on page 65 undefined on input line 605
+.
+
+
+LaTeX Warning: Citation `yang09' on page 65 undefined on input line 605.
+
+
+Overfull \hbox (7.40347pt too wide) in paragraph at lines 605--606
+[]\EU1/lmr/m/n/10.95 Hf alloying additions to Cr–Si have been investigated re
+cently  [[]]. Hf improves high-temperature
+ []
+
+File: crhfsi.png Graphic file (type QTm)
+<use  "crhfsi.png" >
+
+LaTeX Warning: Citation `schoonover08' on page 65 undefined on input line 611.
+
+
+LaTeX Warning: Citation `schoonover08' on page 65 undefined on input line 611.
+
+File: crhfsieut.png Graphic file (type QTm)
+<use  "crhfsieut.png" >
+
+LaTeX Warning: Citation `schoonover08' on page 65 undefined on input line 621.
+
+
+LaTeX Warning: Citation `schoonover08' on page 65 undefined on input line 621.
+
+[65
+
+]
+
+LaTeX Warning: Reference `fig:VSi' on page 66 undefined on input line 630.
+
+
+LaTeX Warning: Citation `smith90' on page 66 undefined on input line 630.
+
+
+LaTeX Warning: Citation `freund78' on page 66 undefined on input line 630.
+
+
+LaTeX Warning: Citation `rostoker58' on page 66 undefined on input line 630.
+
+
+LaTeX Warning: Citation `strum94' on page 66 undefined on input line 630.
+
+
+LaTeX Warning: Reference `fig:VCr_hardness' on page 66 undefined on input line 
+632.
+
+
+LaTeX Warning: Citation `shah92' on page 66 undefined on input line 632.
+
+
+LaTeX Warning: Reference `fig:Cr3Si_alloying' on page 66 undefined on input lin
+e 632.
+
+
+LaTeX Warning: Reference `fig:creepshah92_2' on page 66 undefined on input line
+ 632.
+
+Missing character: There is no ̉ in font cmmi10!
+Missing character: There is no ̉ in font cmmi10!
+
+LaTeX Warning: Reference `fig:vkic' on page 66 undefined on input line 632.
+
+
+LaTeX Warning: Citation `strum94' on page 66 undefined on input line 632.
+
+
+LaTeX Warning: Reference `fig:vfracture' on page 66 undefined on input line 632
+.
+
+
+LaTeX Warning: Citation `strum94' on page 66 undefined on input line 632.
+
+
+LaTeX Warning: Reference `fig:CrV' on page 66 undefined on input line 634.
+
+
+LaTeX Warning: Citation `kocherzhinskii85' on page 66 undefined on input line 6
+34.
+
+File: VSi.png Graphic file (type QTm)
+<use  "VSi.png" >
+
+LaTeX Warning: Citation `smith90' on page 66 undefined on input line 640.
+
+
+LaTeX Warning: Citation `smith90' on page 66 undefined on input line 640.
+
+[66]
+File: VCr3Si_hardness.jpg Graphic file (type QTm)
+ <use  "VCr3Si_hardness.jpg" >
+
+LaTeX Warning: Citation `shah92' on page 67 undefined on input line 651.
+
+
+LaTeX Warning: Citation `shah92' on page 67 undefined on input line 651.
+
+File: creepshah92_2.jpg Graphic file (type QTm)
+<use  "creepshah92_2.jpg" >
+
+LaTeX Warning: Citation `shah92' on page 67 undefined on input line 663.
+
+
+LaTeX Warning: Citation `shah92' on page 67 undefined on input line 663.
+
+[67]
+File: vkic.png Graphic file (type QTm)
+ <use  "vkic.png" >
+Overfull \hbox (6.54393pt too wide) in paragraph at lines 672--673
+ [] 
+ []
+
+
+LaTeX Warning: Citation `strum94' on page 68 undefined on input line 673.
+
+
+LaTeX Warning: Citation `strum94' on page 68 undefined on input line 673.
+
+File: vfracture.png Graphic file (type QTm)
+<use  "vfracture.png" >
+
+LaTeX Warning: Citation `strum94' on page 68 undefined on input line 681.
+
+
+LaTeX Warning: Citation `strum94' on page 68 undefined on input line 681.
+
+File: CrV.jpg Graphic file (type QTm)
+<use  "CrV.jpg" >
+
+LaTeX Warning: Citation `kocherzhinskii85' on page 68 undefined on input line 6
+90.
+
+
+LaTeX Warning: Citation `kocherzhinskii85' on page 68 undefined on input line 6
+90.
+
+[68]
+
+LaTeX Warning: Reference `fig:TiSi' on page 69 undefined on input line 697.
+
+
+LaTeX Warning: Citation `seifert96' on page 69 undefined on input line 697.
+
+
+LaTeX Warning: Citation `costa10' on page 69 undefined on input line 697.
+
+
+LaTeX Warning: Citation `zhan09' on page 69 undefined on input line 699.
+
+
+LaTeX Warning: Reference `fig:creepshah92_3' on page 69 undefined on input line
+ 699.
+
+[69]
+
+LaTeX Warning: Citation `yang10' on page 70 undefined on input line 701.
+
+File: TiSi.jpg Graphic file (type QTm)
+<use  "TiSi.jpg" >
+
+LaTeX Warning: Citation `seifert96' on page 70 undefined on input line 707.
+
+
+LaTeX Warning: Citation `seifert96' on page 70 undefined on input line 707.
+
+File: creepshah92_1.png Graphic file (type QTm)
+<use  "creepshah92_1.png" >
+
+LaTeX Warning: Citation `shah92' on page 70 undefined on input line 716.
+
+
+LaTeX Warning: Citation `shah92' on page 70 undefined on input line 716.
+
+[70]
+
+LaTeX Warning: Citation `schlesinger94' on page 71 undefined on input line 725.
+
+
+
+LaTeX Warning: Citation `naidu90ta' on page 71 undefined on input line 725.
+
+
+LaTeX Warning: Reference `fig:TaSi' on page 71 undefined on input line 725.
+
+
+LaTeX Warning: Citation `sakidja08' on page 71 undefined on input line 727.
+
+File: TaSi.png Graphic file (type QTm)
+<use  "TaSi.png" >
+
+LaTeX Warning: Citation `naidu90ta' on page 71 undefined on input line 733.
+
+
+LaTeX Warning: Citation `naidu90ta' on page 71 undefined on input line 733.
+
+[71]
+
+LaTeX Warning: Citation `naidu90w' on page 72 undefined on input line 739.
+
+
+LaTeX Warning: Citation `sakidja08' on page 72 undefined on input line 739.
+
+
+LaTeX Warning: Reference `fig:creepshah92_3' on page 72 undefined on input line
+ 739.
+
+File: WSi.png Graphic file (type QTm)
+<use  "WSi.png" >
+
+LaTeX Warning: Citation `naidu90w' on page 72 undefined on input line 745.
+
+
+LaTeX Warning: Citation `naidu90w' on page 72 undefined on input line 745.
+
+[72]
+
+LaTeX Warning: Citation `raj95a' on page 73 undefined on input line 752.
+
+
+LaTeX Warning: Citation `kumar07' on page 73 undefined on input line 752.
+
+
+LaTeX Warning: Citation `jain10' on page 73 undefined on input line 752.
+
+[73]
+
+LaTeX Warning: Reference `fig:plapp' on page 74 undefined on input line 758.
+
+
+LaTeX Warning: Citation `shah95' on page 74 undefined on input line 760.
+
+File: plapp.png Graphic file (type QTm)
+<use  "plapp.png" >
+
+LaTeX Warning: Citation `plapp02' on page 74 undefined on input line 766.
+
+
+LaTeX Warning: Citation `plapp02' on page 74 undefined on input line 766.
+
+) (./silicidealloydesignii.tex [74]
+Chapter 4.
+
+LaTeX Warning: Reference `fig:IntermetallicOxidation' on page 75 undefined on i
+nput line 4.
+
+File: IntermetallicOxidation.jpg Graphic file (type QTm)
+<use  "IntermetallicOxidation.jpg" > [75
+
+]
+
+LaTeX Warning: Citation `raj95' on page 76 undefined on input line 21.
+
+
+LaTeX Warning: Citation `kahn80' on page 76 undefined on input line 26.
+
+
+LaTeX Warning: Citation `harris97' on page 76 undefined on input line 26.
+
+
+LaTeX Warning: Citation `rawn01' on page 76 undefined on input line 26.
+
+
+LaTeX Warning: Citation `yanagihara96' on page 76 undefined on input line 26.
+
+[76]
+
+LaTeX Warning: Reference `fig:BCC' on page 77 undefined on input line 39.
+
+
+LaTeX Warning: Reference `fig:A15' on page 77 undefined on input line 39.
+
+
+LaTeX Warning: Reference `fig:periodictable' on page 77 undefined on input line
+ 39.
+
+[77]
+File: periodictable.jpg Graphic file (type QTm)
+ <use  "periodictable.jpg" >
+
+LaTeX Warning: Reference `fig:growthmorphologies' on page 78 undefined on input
+ line 69.
+
+
+LaTeX Warning: Reference `fig:DS_CrCr3Si' on page 78 undefined on input line 69
+.
+
+
+LaTeX Warning: Citation `bei03' on page 78 undefined on input line 69.
+
+
+LaTeX Warning: Reference `fig:degenerate' on page 78 undefined on input line 69
+.
+
+File: growthmorphologies.jpg Graphic file (type QTm)
+<use  "growthmorphologies.jpg" > [78]
+
+LaTeX Warning: Citation `raj95a' on page 79 undefined on input line 81.
+
+
+LaTeX Warning: Citation `reed06' on page 79 undefined on input line 81.
+
+
+LaTeX Warning: Citation `abrahamson57' on page 79 undefined on input line 81.
+
+
+LaTeX Warning: Reference `fig:Cr_ductility' on page 79 undefined on input line 
+81.
+
+
+LaTeX Warning: Citation `gokhale90' on page 79 undefined on input line 83.
+
+
+LaTeX Warning: Citation `bei04' on page 79 undefined on input line 83.
+
+
+LaTeX Warning: Citation `dunn61' on page 79 undefined on input line 83.
+
+
+LaTeX Warning: Citation `shah92' on page 79 undefined on input line 85.
+
+
+LaTeX Warning: Citation `wriedt90' on page 79 undefined on input line 87.
+
+
+LaTeX Warning: Citation `raj95' on page 79 undefined on input line 87.
+
+[79]
+
+LaTeX Warning: Citation `shah92' on page 80 undefined on input line 89.
+
+
+LaTeX Warning: Citation `raj95' on page 80 undefined on input line 95.
+
+
+LaTeX Warning: Reference `fig:periodictable' on page 80 undefined on input line
+ 95.
+
+File: shahpest.jpg Graphic file (type QTm)
+<use  "shahpest.jpg" >
+
+LaTeX Warning: Citation `shah92' on page 80 undefined on input line 101.
+
+
+LaTeX Warning: Citation `shah92' on page 80 undefined on input line 101.
+
+[80]
+
+LaTeX Warning: Reference `tab:alloycompoat' on page 81 undefined on input line 
+111.
+
+
+LaTeX Warning: Reference `tab:alloycompowt' on page 81 undefined on input line 
+111.
+
+
+LaTeX Warning: Reference `tab:alloycompoat' on page 81 undefined on input line 
+111.
+
+[81]
+
+LaTeX Warning: Citation `bei03a' on page 82 undefined on input line 128.
+
+[82]
+
+LaTeX Warning: Citation `bei03' on page 83 undefined on input line 169.
+
+[83
+
+
+
+]
+
+LaTeX Font Warning: Font shape `EU1/AppleLiSungLight(0)/bx/n' undefined
+(Font)              using `EU1/AppleLiSungLight(0)/m/n' instead on input line 1
+97.
+
+
+LaTeX Warning: Reference `tab:alloycompoat' on page 84 undefined on input line 
+199.
+
+
+LaTeX Warning: Reference `tab:alloycompowt' on page 84 undefined on input line 
+199.
+
+File: TaVSi1400.png Graphic file (type QTm)
+<use  "TaVSi1400.png" > [84
+
+]
+
+LaTeX Warning: Reference `fig:CrW' on page 85 undefined on input line 213.
+
+
+LaTeX Warning: Citation `naidu90crw' on page 85 undefined on input line 213.
+
+
+LaTeX Warning: Reference `fig:CrVW1000' on page 85 undefined on input line 213.
+
+
+
+LaTeX Warning: Citation `rostoker61' on page 85 undefined on input line 213.
+
+
+LaTeX Warning: Reference `fig:CrSiW1500' on page 85 undefined on input line 215
+.
+
+
+LaTeX Warning: Citation `kieffer62' on page 85 undefined on input line 215.
+
+
+LaTeX Warning: Citation `gladyshevskii67' on page 85 undefined on input line 21
+5.
+
+
+LaTeX Warning: Reference `tab:alloycompoat' on page 85 undefined on input line 
+217.
+
+
+LaTeX Warning: Reference `tab:alloycompowt' on page 85 undefined on input line 
+217.
+
+File: CrW.png Graphic file (type QTm)
+<use  "CrW.png" >
+
+LaTeX Warning: Citation `naidu90crw' on page 85 undefined on input line 222.
+
+
+LaTeX Warning: Citation `naidu90crw' on page 85 undefined on input line 222.
+
+File: CrVW1000.png Graphic file (type QTm)
+<use  "CrVW1000.png" >
+
+LaTeX Warning: Citation `rostoker61' on page 85 undefined on input line 230.
+
+
+LaTeX Warning: Citation `rostoker61' on page 85 undefined on input line 230.
+
+[85]
+File: CrSiW1500.png Graphic file (type QTm)
+ <use  "CrSiW1500.png" >
+
+LaTeX Warning: Citation `kieffer62' on page 86 undefined on input line 239.
+
+
+LaTeX Warning: Citation `kieffer62' on page 86 undefined on input line 239.
+
+File: VSiW1000.png Graphic file (type QTm)
+<use  "VSiW1000.png" >
+
+LaTeX Warning: Citation `gladyshevskii67' on page 86 undefined on input line 24
+7.
+
+
+LaTeX Warning: Citation `gladyshevskii67' on page 86 undefined on input line 24
+7.
+
+[86] [87]
+
+LaTeX Warning: Reference `fig:CrSiAl500' on page 88 undefined on input line 255
+.
+
+
+LaTeX Warning: Citation `schmid91' on page 88 undefined on input line 255.
+
+
+LaTeX Warning: Reference `fig:CrSiAl1300' on page 88 undefined on input line 25
+5.
+
+
+LaTeX Warning: Citation `schmid91' on page 88 undefined on input line 255.
+
+
+LaTeX Warning: Reference `fig:CrSiAl1300' on page 88 undefined on input line 25
+5.
+
+
+LaTeX Warning: Citation `perrot93' on page 88 undefined on input line 255.
+
+
+LaTeX Warning: Reference `fig:VAl' on page 88 undefined on input line 257.
+
+
+LaTeX Warning: Citation `richter00' on page 88 undefined on input line 257.
+
+
+LaTeX Warning: Reference `fig:VSiAl1000' on page 88 undefined on input line 257
+.
+
+
+LaTeX Warning: Citation `haussmann93' on page 88 undefined on input line 257.
+
+
+LaTeX Warning: Reference `fig:VSiAl1000' on page 88 undefined on input line 257
+.
+
+
+LaTeX Warning: Citation `haussmann93' on page 88 undefined on input line 257.
+
+
+LaTeX Warning: Reference `fig:CrSiAl500' on page 88 undefined on input line 259
+.
+
+
+LaTeX Warning: Reference `fig:TaSiAl1400' on page 88 undefined on input line 26
+3.
+
+
+LaTeX Warning: Citation `perrot93' on page 88 undefined on input line 263.
+
+
+LaTeX Warning: Reference `fig:CrSiAl1300' on page 88 undefined on input line 26
+3.
+
+
+LaTeX Warning: Reference `fig:WSiAl1500' on page 88 undefined on input line 265
+.
+
+
+LaTeX Warning: Reference `fig:WSiAl1500' on page 88 undefined on input line 265
+.
+
+
+LaTeX Warning: Citation `schmid93' on page 88 undefined on input line 265.
+
+
+LaTeX Warning: Citation `nowotny61' on page 88 undefined on input line 265.
+
+
+LaTeX Warning: Reference `tab:alloycompoat' on page 88 undefined on input line 
+267.
+
+
+LaTeX Warning: Reference `tab:alloycompowt' on page 88 undefined on input line 
+267.
+
+File: CrSiAl500.png Graphic file (type QTm)
+<use  "CrSiAl500.png" >
+
+LaTeX Warning: Citation `schmid91' on page 88 undefined on input line 273.
+
+
+LaTeX Warning: Citation `schmid91' on page 88 undefined on input line 273.
+
+[88]
+File: CrSiAl1300.png Graphic file (type QTm)
+ <use  "CrSiAl1300.png" >
+
+LaTeX Warning: Citation `schmid91' on page 89 undefined on input line 282.
+
+
+LaTeX Warning: Citation `schmid91' on page 89 undefined on input line 282.
+
+File: VAl.png Graphic file (type QTm)
+<use  "VAl.png" >
+
+LaTeX Warning: Citation `richter00' on page 89 undefined on input line 290.
+
+
+LaTeX Warning: Citation `richter00' on page 89 undefined on input line 290.
+
+File: VSiAl1000.png Graphic file (type QTm)
+<use  "VSiAl1000.png" >
+
+LaTeX Warning: Citation `haussmann93' on page 89 undefined on input line 298.
+
+
+LaTeX Warning: Citation `haussmann93' on page 89 undefined on input line 298.
+
+[89]
+File: TaSiAl1400.png Graphic file (type QTm)
+ <use  "TaSiAl1400.png" >
+
+LaTeX Warning: Citation `perrot93' on page 90 undefined on input line 306.
+
+
+LaTeX Warning: Citation `perrot93' on page 90 undefined on input line 306.
+
+File: WSiAl1400.png Graphic file (type QTm)
+<use  "WSiAl1400.png" >
+
+LaTeX Warning: Citation `nowotny61' on page 90 undefined on input line 314.
+
+
+LaTeX Warning: Citation `nowotny61' on page 90 undefined on input line 314.
+
+[90]
+
+LaTeX Warning: Reference `fig:NiSi' on page 91 undefined on input line 322.
+
+File: NiSi.png Graphic file (type QTm)
+<use  "NiSi.png" >
+
+LaTeX Warning: Citation `nash90' on page 91 undefined on input line 327.
+
+
+LaTeX Warning: Citation `nash90' on page 91 undefined on input line 327.
+
+[91]
+
+LaTeX Warning: Reference `fig:CrSiFe900' on page 92 undefined on input line 334
+.
+
+File: CrSiFe900.png Graphic file (type QTm)
+<use  "CrSiFe900.png" > [92]
+File: VSiFe1000.png Graphic file (type QTm)
+ <use  "VSiFe1000.png" > [93]
+
+LaTeX Warning: Reference `fig:VSiFe1000' on page 94 undefined on input line 356
+.
+
+
+LaTeX Warning: Reference `fig:CrVHf1300' on page 94 undefined on input line 360
+.
+
+File: CrVHf1300.png Graphic file (type QTm)
+<use  "CrVHf1300.png" >) (./alloy_manufacture_compositions.tex [94
+
+]
+Chapter 5.
+[95
+
+]
+
+LaTeX Warning: Reference `fig:crarc' on page 96 undefined on input line 22.
+
+
+LaTeX Warning: Reference `fig:crarc' on page 96 undefined on input line 24.
+
+
+LaTeX Warning: Reference `fig:dantzig' on page 96 undefined on input line 24.
+
+File: coolingrate.jpg Graphic file (type QTm)
+<use  "coolingrate.jpg" > [96]
+File: crarc.jpg Graphic file (type QTm)
+ <use  "crarc.jpg" >
+
+LaTeX Warning: Reference `fig:bhamarc' on page 97 undefined on input line 48.
+
+[97]
+File: bhamarc.jpg Graphic file (type QTm)
+ <use  "bhamarc.jpg" >
+
+LaTeX Warning: Reference `fig:physicsrf' on page 98 undefined on input line 65.
+
+
+File: physicsrf.jpg Graphic file (type QTm)
+<use  "physicsrf.jpg" >
+File: physicsrfii.jpg Graphic file (type QTm)
+ <use  "physicsrfii.jpg" >
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 80.
+
+[98]
+
+LaTeX Warning: Reference `fig:cleanpot' on page 99 undefined on input line 82.
+
+File: cleanpot.jpg Graphic file (type QTm)
+<use  "cleanpot.jpg" >
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 88.
+
+
+LaTeX Warning: Reference `fig:sponge' on page 99 undefined on input line 96.
+
+[99]
+File: spongei.jpg Graphic file (type QTm)
+ <use  "spongei.jpg" >
+File: spongeii.jpg Graphic file (type QTm)
+ <use  "spongeii.jpg" >
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 103.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 103.
+
+File: squat.jpg Graphic file (type QTm)
+<use  "squat.jpg" >
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+
+
+LaTeX Warning: Reference `fig:dirtypot' on page 100 undefined on input line 117
+.
+
+
+LaTeX Warning: Reference `fig:dirtypot' on page 100 undefined on input line 117
+.
+
+[100]
+File: dirtypotlid.jpg Graphic file (type QTm)
+ <use  "dirtypotlid.jpg" >
+File: dirtypot.jpg Graphic file (type QTm)
+ <use  "dirtypot.jpg" >
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 124.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 124.
+
+
+LaTeX Warning: Reference `fig:CrSi' on page 101 undefined on input line 130.
+
+[101]
+
+LaTeX Warning: Reference `fig:pmsantaal' on page 102 undefined on input line 13
+9.
+
+
+LaTeX Warning: Reference `fig:pmsantaii' on page 102 undefined on input line 14
+1.
+
+
+LaTeX Warning: Reference `fig:pmsantaii' on page 102 undefined on input line 14
+1.
+
+File: PMsanTaAl.jpg Graphic file (type QTm)
+<use  "PMsanTaAl.jpg" >
+File: PMsanTaAlii.jpg Graphic file (type QTm)
+ <use  "PMsanTaAlii.jpg" >
+File: PMsanTaii.jpg Graphic file (type QTm)
+ <use  "PMsanTaii.jpg" >
+File: PMsanWAlii.jpg Graphic file (type QTm)
+
+<use  "PMsanWAlii.jpg" > [102]
+File: PMsanW.jpg Graphic file (type QTm)
+ <use  "PMsanW.jpg" >
+File: PMsanWAl.jpg Graphic file (type QTm)
+ <use  "PMsanWAl.jpg" >
+[103]
+File: rfsmall.jpg Graphic file (type QTm)
+ <use  "rfsmall.jpg" > [104]
+File: rfi.jpg Graphic file (type QTm)
+ <use  "rfi.jpg" >
+
+LaTeX Warning: Reference `fig:sanw' on page 105 undefined on input line 232.
+
+File: santarf.png Graphic file (type QTm)
+<use  "santarf.png" >
+File: santarftop.png Graphic file (type QTm)
+ <use  "santarftop.png" > [105]
+File: sanw_arc.png Graphic file (type QTm)
+ <use  "sanw_arc.png" >
+File: sanw.png Graphic file (type QTm)
+
+<use  "sanw.png" > [106]
+
+LaTeX Warning: Reference `fig:MirrorFurnace' on page 107 undefined on input lin
+e 267.
+
+
+LaTeX Warning: Reference `fig:FirstCast' on page 107 undefined on input line 27
+2.
+
+File: MirrorFurnace.jpg Graphic file (type QTm)
+<use  "MirrorFurnace.jpg" >
+File: mirroron.png Graphic file (type QTm)
+ <use  "mirroron.png" > [107
+
+]
+File: FirstCast.jpg Graphic file (type QTm)
+
+<use  "FirstCast.jpg" >) (./MicrostructureandWDS.tex [108]
+Chapter 6.
+[109
+
+] [110]
+
+LaTeX Warning: Reference `fig:ternarymap' on page 111 undefined on input line 2
+9.
+
+
+LaTeX Warning: Reference `fig:WDSaveragecompo' on page 111 undefined on input l
+ine 29.
+
+File: ternarymap.jpg Graphic file (type QTm)
+<use  "ternarymap.jpg" > [111] [112]
+File: WDSaveragecompo.png Graphic file (type QTm)
+ <use  "WDSaveragecompo.png" > [113
+
+]
+[114
+
+]
+
+LaTeX Warning: Reference `fig:ternarymap' on page 115 undefined on input line 7
+7.
+
+
+LaTeX Warning: Reference `fig:creutmap' on page 115 undefined on input line 86.
+
+
+
+LaTeX Warning: Reference `fig:creutmap' on page 115 undefined on input line 86.
+
+
+[115]
+
+LaTeX Warning: Reference `fig:tereutmap' on page 116 undefined on input line 88
+.
+
+
+LaTeX Warning: Reference `fig:veutmap' on page 116 undefined on input line 90.
+
+
+LaTeX Warning: Reference `fig:veutmap' on page 116 undefined on input line 90.
+
+[116]
+File: creutCrmap.jpg Graphic file (type QTm)
+ <use  "creutCrmap.jpg" >
+File: creutSimap.jpg Graphic file (type QTm)
+ <use  "creutSimap.jpg" > [117]
+File: middle_Cr.png Graphic file (type QTm)
+
+<use  "middle_Cr.png" >
+File: middle_V.png Graphic file (type QTm)
+ <use  "middle_V.png" >
+File: middle_Si.png Graphic file (type QTm)
+ <use  "middle_Si.png" > [118]
+File: veutVmap.jpg Graphic file (type QTm)
+
+<use  "veutVmap.jpg" >
+File: veutSimap.jpg Graphic file (type QTm)
+ <use  "veutSimap.jpg" > [119]
+
+LaTeX Warning: Reference `fig:Crarctrans' on page 120 undefined on input line 1
+48.
+
+
+LaTeX Warning: Reference `fig:Crarctrans' on page 120 undefined on input line 1
+50.
+
+File: Cr_arc_trans.png Graphic file (type QTm)
+<use  "Cr_arc_trans.png" >
+
+LaTeX Warning: Reference `fig:Crarctrans' on page 120 undefined on input line 1
+62.
+
+
+LaTeX Warning: Reference `fig:Crarcsample1' on page 120 undefined on input line
+ 162.
+
+
+LaTeX Warning: Reference `fig:Crarcsample1c' on page 120 undefined on input lin
+e 162.
+
+[120
+
+
+
+
+
+
+]
+File: _Jun18_sample_1_circle_sidei_50um_scale.png Graphic file (type QTm)
+ <use  "_Jun18_sample_1_circle_sidei_50um_scale.png" >
+File: _Jun18_sample_1_circle_sideiv_10um_bse_scale.png Graphic file (type QTm)
+
+<use  "_Jun18_sample_1_circle_sideiv_10um_bse_scale.png" >
+File: _Jun18_sample_1_circle_sidei_20um_scale.png Graphic file (type QTm)
+
+<use  "_Jun18_sample_1_circle_sidei_20um_scale.png" >
+
+LaTeX Warning: Reference `fig:Cr100middle20umeutectic' on page 121 undefined on
+ input line 211.
+
+[121]
+
+LaTeX Warning: Reference `fig:location171crrfpointsSS' on page 122 undefined on
+ input line 213.
+
+
+LaTeX Warning: Reference `fig:location171crrfpointsSS' on page 122 undefined on
+ input line 213.
+
+File: Cr100middle20umeutectic.png Graphic file (type QTm)
+<use  "Cr100middle20umeutectic.png" >
+File: location171crrfX3Sipoints.jpg Graphic file (type QTm)
+ <use  "location171crrfX3Sipoints.jpg" >
+File: location171crrfpointsSS.jpg Graphic file (type QTm)
+
+<use  "location171crrfpointsSS.jpg" > [122]
+
+LaTeX Warning: Reference `fig:Cr75less3Sigii' on page 123 undefined on input li
+ne 237.
+
+
+LaTeX Warning: Reference `fig:75CrlongiBSE' on page 123 undefined on input line
+ 237.
+
+[123]
+
+LaTeX Warning: Reference `fig:75CrlongiBSE' on page 124 undefined on input line
+ 241.
+
+
+LaTeX Warning: Reference `fig:75CrgridiiSEafter' on page 124 undefined on input
+ line 241.
+
+
+LaTeX Warning: Reference `fig:75CrgridiiiSEafter' on page 124 undefined on inpu
+t line 241.
+
+
+LaTeX Warning: Reference `fig:75CrgridiiSEafter' on page 124 undefined on input
+ line 241.
+
+
+LaTeX Warning: Reference `fig:75CrgridiiiSEafter' on page 124 undefined on inpu
+t line 241.
+
+File: Cr75less3Sigii.jpg Graphic file (type QTm)
+<use  "Cr75less3Sigii.jpg" >
+File: _Sep6_75Cr_eut_scale_aug09.png Graphic file (type QTm)
+ <use  "_Sep6_75Cr_eut_scale_aug09.png" >
+File: _Sep6_75Cr_eut_3Si_grid_ii_after_SE_full_grid.png Graphic file (type QTm)
+
+
+<use  "_Sep6_75Cr_eut_3Si_grid_ii_after_SE_full_grid.png" >
+File: _Sep6_75Cr_eut_3Si_grid_ii_after_BSE_4th_quadrant.png Graphic file (type 
+QTm)
+
+<use  "_Sep6_75Cr_eut_3Si_grid_ii_after_BSE_4th_quadrant.png" > [124]
+File: _Sep6_75CrafterSE.png Graphic file (type QTm)
+
+<use  "_Sep6_75CrafterSE.png" >
+File: Sep675Cr_eut_minus3Si_gridii_scaleafterBSE.png Graphic file (type QTm)
+
+<use  "Sep675Cr_eut_minus3Si_gridii_scaleafterBSE.png" > [125]
+
+LaTeX Warning: Reference `fig:75CrgridiiiBSE' on page 126 undefined on input li
+ne 294.
+
+
+LaTeX Warning: Reference `fig:75CrgridivBSE' on page 126 undefined on input lin
+e 296.
+
+
+LaTeX Warning: Reference `fig:75CrgridivBSE' on page 126 undefined on input lin
+e 298.
+
+[126]
+File: _Sep6_gridiii_75Cr_scale_beforeBSE.png Graphic file (type QTm)
+ <use  "_Sep6_gridiii_75Cr_scale_beforeBSE.png" >
+File: _Sep6_gridiii_75Cr_30BSE.png Graphic file (type QTm)
+
+<use  "_Sep6_gridiii_75Cr_30BSE.png" >
+File: _Sep6_grid_iv_75Cr_scale_beforeBSE.png Graphic file (type QTm)
+
+<use  "_Sep6_grid_iv_75Cr_scale_beforeBSE.png" >
+File: _Jun20_0975Cr25V_eut_comp_bham_arc_side_100um_BSE_scale.png Graphic file 
+(type QTm)
+
+<use  "_Jun20_0975Cr25V_eut_comp_bham_arc_side_100um_BSE_scale.png" > [127]
+File: g05bSS.jpg Graphic file (type QTm)
+
+<use  "g05bSS.jpg" >
+File: g05bX3Si.jpg Graphic file (type QTm)
+ <use  "g05bX3Si.jpg" > [128]
+
+LaTeX Warning: Reference `fig:g05bSS' on page 129 undefined on input line 428.
+
+
+LaTeX Warning: Reference `fig:g05bX3Si' on page 129 undefined on input line 429
+.
+
+
+LaTeX Warning: Reference `fig:g05bSS' on page 129 undefined on input line 429.
+
+
+LaTeX Warning: Reference `fig:g05c' on page 129 undefined on input line 429.
+
+
+LaTeX Warning: Reference `fig:g05bX3Si' on page 129 undefined on input line 429
+.
+
+
+LaTeX Warning: Reference `tab:sanpoints' on page 129 undefined on input line 42
+9.
+
+File: g05cSS.jpg Graphic file (type QTm)
+<use  "g05cSS.jpg" >
+File: g05cpointsx3si.jpg Graphic file (type QTm)
+ <use  "g05cpointsx3si.jpg" > [129]
+
+LaTeX Warning: Reference `fig:grid08neighbouriSS' on page 130 undefined on inpu
+t line 443.
+
+
+LaTeX Warning: Reference `fig:grid08neighbourssX3Si' on page 130 undefined on i
+nput line 443.
+
+
+LaTeX Warning: Reference `fig:25Cr_middleii_spot' on page 130 undefined on inpu
+t line 443.
+
+
+LaTeX Warning: Reference `fig:grid08neighbouriSS' on page 130 undefined on inpu
+t line 443.
+
+
+LaTeX Warning: Reference `fig:grid08neighbourssX3Si' on page 130 undefined on i
+nput line 443.
+
+
+LaTeX Warning: Reference `tab:quartCrbulk' on page 130 undefined on input line 
+443.
+
+File: grid08neighbouriSS.jpg Graphic file (type QTm)
+<use  "grid08neighbouriSS.jpg" >
+File: grid07neighbouriX3Si.jpg Graphic file (type QTm)
+ <use  "grid07neighbouriX3Si.jpg" > [130]
+File: grid08neighbourssX3Si.jpg Graphic file (type QTm)
+
+<use  "grid08neighbourssX3Si.jpg" >
+File: 25Cr75VSi_spot2.png Graphic file (type QTm)
+ <use  "25Cr75VSi_spot2.png" >
+File: 25Cr75VSi_spot1.png Graphic file (type QTm)
+
+<use  "25Cr75VSi_spot1.png" >
+
+LaTeX Warning: Reference `fig:Vpointsbase' on page 131 undefined on input line 
+539.
+
+
+LaTeX Warning: Reference `fig:varcinhomo' on page 131 undefined on input line 5
+39.
+
+[131]
+
+LaTeX Warning: Reference `fig:VDSi' on page 132 undefined on input line 541.
+
+
+LaTeX Warning: Reference `fig:Vpointslongmiddle' on page 132 undefined on input
+ line 541.
+
+
+LaTeX Warning: Reference `fig:Vpointsbase' on page 132 undefined on input line 
+543.
+
+
+LaTeX Warning: Reference `fig:VPD' on page 132 undefined on input line 545.
+
+
+LaTeX Warning: Reference `tab:v' on page 132 undefined on input line 546.
+
+
+LaTeX Warning: Reference `fig:vdendritedecomposition' on page 132 undefined on 
+input line 547.
+
+[132]
+File: varca.png Graphic file (type QTm)
+ <use  "varca.png" >
+File: varcb.png Graphic file (type QTm)
+ <use  "varcb.png" >
+File: varcinhomo.png Graphic file (type QTm)
+ <use  "varcinhomo.png" >
+File: _Jun19_09vv3si_long_50um_side_i_bse_scale.png Graphic file (type QTm)
+
+<use  "_Jun19_09vv3si_long_50um_side_i_bse_scale.png" >
+File: _Jun19_09vv3si_long_50um_middle_i_bse_scale.png Graphic file (type QTm)
+
+<use  "_Jun19_09vv3si_long_50um_middle_i_bse_scale.png" >
+File: vmirrorSSandX3Sidata.jpg Graphic file (type QTm)
+
+<use  "vmirrorSSandX3Sidata.jpg" >
+File: vmirrorSSandX3Siphasediag.jpg Graphic file (type QTm)
+ <use  "vmirrorSSandX3Siphasediag.jpg" >
+[133] [134]
+File: location160vmirrorpointsbse.jpg Graphic file (type QTm)
+ <use  "location160vmirrorpointsbse.jpg" > [135]
+
+LaTeX Warning: Reference `fig:WDSaveragecompo' on page 136 undefined on input l
+ine 614.
+
+
+LaTeX Warning: Reference `tab:crat' on page 136 undefined on input line 614.
+
+
+LaTeX Warning: Reference `tab:crati' on page 136 undefined on input line 614.
+
+
+LaTeX Warning: Reference `tab:ternary' on page 136 undefined on input line 614.
+
+
+
+LaTeX Warning: Reference `tab:v' on page 136 undefined on input line 614.
+
+[136] [137] [138
+
+
+
+] [139] [140
+
+
+
+
+]
+
+LaTeX Warning: Reference `tab:ternary' on page 141 undefined on input line 806.
+
+
+[141
+
+]
+
+LaTeX Warning: Reference `fig:vdendritedecomposition' on page 142 undefined on 
+input line 831.
+
+
+LaTeX Warning: Reference `fig:WDSaveragecompo' on page 142 undefined on input l
+ine 833.
+
+
+Overfull \hbox (5.61873pt too wide) in paragraph at lines 835--835
+[]\EU1/lmr/bx/n/14.4 Microstructure and WDS Analysis of Quaternary and Quinary
+ []
+
+
+LaTeX Warning: Reference `fig:flow6' on page 142 undefined on input line 837.
+
+
+LaTeX Warning: Reference `tab:quartalloycompoat' on page 142 undefined on input
+ line 837.
+
+[142]
+
+LaTeX Warning: Citation `bei03a' on page 143 undefined on input line 853.
+
+File: flow.png Graphic file (type QTm)
+<use  "flow.png" > [143]
+
+LaTeX Warning: Reference `fig:CrVTa_panorama' on page 144 undefined on input li
+ne 882.
+
+
+LaTeX Warning: Reference `fig:sanTaii' on page 144 undefined on input line 882.
+
+
+
+LaTeX Warning: Citation `turnbull55' on page 144 undefined on input line 884.
+
+
+LaTeX Warning: Reference `fig:CrVTa_panorama' on page 144 undefined on input li
+ne 886.
+
+
+LaTeX Warning: Reference `fig:sanTaii' on page 144 undefined on input line 886.
+
+
+
+LaTeX Warning: Reference `tab:sanTaWDS' on page 144 undefined on input line 886
+.
+
+[144]
+
+LaTeX Warning: Reference `fig:unmeltedi' on page 145 undefined on input line 88
+8.
+
+
+LaTeX Warning: Reference `fig:unmeltedii' on page 145 undefined on input line 8
+88.
+
+
+LaTeX Warning: Reference `fig:lump' on page 145 undefined on input line 888.
+
+
+LaTeX Warning: Reference `fig:sanTazoomout' on page 145 undefined on input line
+ 888.
+
+File: CrVTa_mar9_panorama.png Graphic file (type QTm)
+<use  "CrVTa_mar9_panorama.png" >
+File: santa.jpg Graphic file (type QTm)
+ <use  "santa.jpg" >
+File: sanTaii.png Graphic file (type QTm)
+ <use  "sanTaii.png" >
+File: sanTaiii.png Graphic file (type QTm)
+
+<use  "sanTaiii.png" >
+Missing character: There is no 山 in font [lmroman10-regular]:mapping=tex-text
+!
+ [145] [146] [147]
+
+LaTeX Warning: Reference `fig:unmeltedi' on page 148 undefined on input line 95
+2.
+
+
+LaTeX Warning: Reference `fig:unmeltedii' on page 148 undefined on input line 9
+52.
+
+
+LaTeX Warning: Reference `fig:lump' on page 148 undefined on input line 952.
+
+
+LaTeX Warning: Reference `fig:sanTazoomout' on page 148 undefined on input line
+ 954.
+
+File: manual_15_vi.png Graphic file (type QTm)
+<use  "manual_15_vi.png" >
+File: manual_15_vii.png Graphic file (type QTm)
+ <use  "manual_15_vii.png" > [148]
+File: manual_15_viii.png Graphic file (type QTm)
+
+<use  "manual_15_viii.png" > [149]
+File: lump.jpg Graphic file (type QTm)
+ <use  "lump.jpg" >
+File: manual_15_iii.png Graphic file (type QTm)
+
+<use  "manual_15_iii.png" >
+File: sanTazoomout.jpg Graphic file (type QTm)
+ <use  "sanTazoomout.jpg" >
+
+LaTeX Warning: Reference `fig:sanTaii' on page 150 undefined on input line 1006
+.
+
+
+LaTeX Warning: Reference `fig:sanTaii' on page 150 undefined on input line 1009
+.
+
+
+LaTeX Warning: Reference `fig:lump' on page 150 undefined on input line 1018.
+
+[150
+
+
+]
+
+LaTeX Warning: Reference `fig:trans_forest' on page 151 undefined on input line
+ 1029.
+
+[151]
+
+LaTeX Warning: Reference `fig:trans_ia' on page 152 undefined on input line 103
+5.
+
+
+LaTeX Warning: Reference `fig:viii' on page 152 undefined on input line 1037.
+
+
+LaTeX Warning: Reference `fig:auto8' on page 152 undefined on input line 1039.
+
+
+LaTeX Warning: Reference `fig:curly' on page 152 undefined on input line 1039.
+
+
+LaTeX Warning: Reference `fig:bear' on page 152 undefined on input line 1039.
+
+
+LaTeX Warning: Reference `fig:low_vol_frac' on page 152 undefined on input line
+ 1039.
+
+
+LaTeX Warning: Reference `fig:low_vol_frac' on page 152 undefined on input line
+ 1039.
+
+File: auto7_eut_pop.png Graphic file (type QTm)
+<use  "auto7_eut_pop.png" >
+File: TaAl_trans_ia.png Graphic file (type QTm)
+ <use  "TaAl_trans_ia.png" >
+File: sanTaAl_RFviii.png Graphic file (type QTm)
+
+<use  "sanTaAl_RFviii.png" >
+File: sanTaAl_RFvi_points.png Graphic file (type QTm)
+ <use  "sanTaAl_RFvi_points.png" >
+File: auto8_ii.png Graphic file (type QTm)
+
+<use  "auto8_ii.png" >
+File: auto8_iii.png Graphic file (type QTm)
+ <use  "auto8_iii.png" >
+File: manual9_curly11to21.png Graphic file (type QTm)
+
+<use  "manual9_curly11to21.png" >
+File: manual8_curlyii.png Graphic file (type QTm)
+ <use  "manual8_curlyii.png" >
+File: manual11_lines_3to5.png Graphic file (type QTm)
+
+<use  "manual11_lines_3to5.png" >
+File: manual12_to15.png Graphic file (type QTm)
+ <use  "manual12_to15.png" >
+File: manual12_8to11.png Graphic file (type QTm)
+
+<use  "manual12_8to11.png" >
+File: manual11_line2_50um.png Graphic file (type QTm)
+ <use  "manual11_line2_50um.png" >
+File: auto7_ii.png Graphic file (type QTm)
+
+<use  "auto7_ii.png" >
+File: auto6_needle.png Graphic file (type QTm)
+ <use  "auto6_needle.png" > [152] [153] [154] [155]
+[156]
+File: CrWt.png Graphic file (type QTm)
+ <use  "CrWt.png" >
+File: VWt.png Graphic file (type QTm)
+ <use  "VWt.png" >
+File: TaWt.png Graphic file (type QTm)
+ <use  "TaWt.png" >
+File: AlWt2.png Graphic file (type QTm)
+
+<use  "AlWt2.png" >
+File: SiWt.png Graphic file (type QTm)
+ <use  "SiWt.png" > [157]
+File: SiWt.png Graphic file (type QTm)
+ <use  "SiWt.png" >
+File: AlWt2.png Graphic file (type QTm)
+
+<use  "AlWt2.png" >
+File: CrWt.png Graphic file (type QTm)
+ <use  "CrWt.png" >
+File: VWt.png Graphic file (type QTm)
+ <use  "VWt.png" >
+File: AlWt2.png Graphic file (type QTm)
+ <use  "AlWt2.png" >
+File: TaWt.png Graphic file (type QTm)
+
+<use  "TaWt.png" > [158] [159] [160]
+File: CrAt.png Graphic file (type QTm)
+ <use  "CrAt.png" >
+File: VAt.png Graphic file (type QTm)
+ <use  "VAt.png" >
+File: TaAt.png Graphic file (type QTm)
+
+<use  "TaAt.png" >
+File: AlAt2.png Graphic file (type QTm)
+ <use  "AlAt2.png" >
+File: SiAt.png Graphic file (type QTm)
+ <use  "SiAt.png" > [161]
+File: SiAt.png Graphic file (type QTm)
+
+<use  "SiAt.png" >
+File: AlAt2.png Graphic file (type QTm)
+ <use  "AlAt2.png" >
+File: CrAt.png Graphic file (type QTm)
+ <use  "CrAt.png" >
+File: VAt.png Graphic file (type QTm)
+ <use  "VAt.png" >
+File: AlAt2.png Graphic file (type QTm)
+
+<use  "AlAt2.png" >
+File: TaAt.png Graphic file (type QTm)
+ <use  "TaAt.png" >
+File: CrSiAl500.png Graphic file (type QTm)
+ <use  "CrSiAl500.png" >
+File: CrSiAl1300.png Graphic file (type QTm)
+
+<use  "CrSiAl1300.png" >
+
+LaTeX Warning: Citation `aoki92' on page 162 undefined on input line 1273.
+
+
+LaTeX Warning: Citation `aoki92' on page 162 undefined on input line 1273.
+
+File: AlSi.png Graphic file (type QTm)
+<use  "AlSi.png" >
+
+LaTeX Warning: Citation `aoki92' on page 162 undefined on input line 1283.
+
+
+LaTeX Warning: Citation `aoki92' on page 162 undefined on input line 1283.
+
+
+LaTeX Warning: Reference `fig:auto7' on page 162 undefined on input line 1288.
+
+
+LaTeX Warning: Reference `fig:area_map_sanTaAli_birdseye' on page 162 undefined
+ on input line 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_SiAlwt' on page 162 undefined on input l
+ine 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_CrVwt' on page 162 undefined on input li
+ne 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_AlTawt' on page 162 undefined on input l
+ine 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_sanTaAli_At' on page 162 undefined on in
+put line 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_SiAlat' on page 162 undefined on input l
+ine 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_CrVat' on page 162 undefined on input li
+ne 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_AlTaat' on page 162 undefined on input l
+ine 1290.
+
+
+LaTeX Warning: Reference `fig:area_map_SiAlwt' on page 162 undefined on input l
+ine 1292.
+
+
+LaTeX Warning: Reference `fig:area_map_sanTaAli_At' on page 162 undefined on in
+put line 1292.
+
+
+LaTeX Warning: Reference `fig:area_map_SiAlwt' on page 162 undefined on input l
+ine 1296.
+
+
+LaTeX Warning: Reference `fig:area_map_SiAlat' on page 162 undefined on input l
+ine 1296.
+
+
+LaTeX Warning: Reference `tab:sanTaAl' on page 162 undefined on input line 1296
+.
+
+
+LaTeX Warning: Reference `fig:area_map_sanTaAli_At' on page 162 undefined on in
+put line 1313.
+
+
+LaTeX Warning: Reference `fig:area_map_sanTaAli_At' on page 162 undefined on in
+put line 1313.
+
+
+LaTeX Warning: Reference `fig:CrSiAl' on page 162 undefined on input line 1318.
+
+
+
+LaTeX Warning: Citation `schmid91' on page 162 undefined on input line 1318.
+
+
+LaTeX Warning: Reference `fig:AlSi' on page 162 undefined on input line 1318.
+
+
+LaTeX Warning: Citation `aoki92' on page 162 undefined on input line 1318.
+
+[162
+
+
+
+
+] [163] [164] [165] [166] [167]
+
+LaTeX Warning: Reference `fig:sanWi' on page 168 undefined on input line 1323.
+
+
+LaTeX Warning: Reference `fig:sanWi' on page 168 undefined on input line 1323.
+
+
+LaTeX Warning: Reference `fig:sanWii' on page 168 undefined on input line 1323.
+
+
+File: sanW_RF_auto3_b.png Graphic file (type QTm)
+<use  "sanW_RF_auto3_b.png" >
+File: sanWi.png Graphic file (type QTm)
+ <use  "sanWi.png" >
+File: sanW_RF_auto3a.png Graphic file (type QTm)
+ <use  "sanW_RF_auto3a.png" >
+
+LaTeX Warning: Reference `fig:sanW_RF_auto3a' on page 168 undefined on input li
+ne 1342.
+
+[168]
+File: sanWii.png Graphic file (type QTm)
+ <use  "sanWii.png" >
+File: auto3_c.png Graphic file (type QTm)
+ <use  "auto3_c.png" >
+
+LaTeX Warning: Reference `chap:highT' on page 169 undefined on input line 1375.
+
+
+
+LaTeX Warning: Citation `kumar10' on page 169 undefined on input line 1375.
+
+[169]
+
+LaTeX Warning: Reference `tab:sanW' on page 170 undefined on input line 1377.
+
+
+LaTeX Warning: Reference `fig:Wtern' on page 170 undefined on input line 1377.
+
+
+LaTeX Warning: Reference `fig:Wtern' on page 170 undefined on input line 1377.
+
+
+LaTeX Warning: Reference `fig:Wtern' on page 170 undefined on input line 1377.
+
+File: VSiW1000.png Graphic file (type QTm)
+<use  "VSiW1000.png" >
+File: CrSiW1500.png Graphic file (type QTm)
+ <use  "CrSiW1500.png" > [170]
+
+LaTeX Warning: Reference `fig:_Mar9_10shan_WAl_bottom_RF_i_scale' on page 171 u
+ndefined on input line 1397.
+
+
+LaTeX Warning: Reference `fig:sanWAli' on page 171 undefined on input line 1399
+.
+
+
+LaTeX Warning: Reference `fig:_Mar9_10shan_WAl_bottom_RF_i_scale' on page 171 u
+ndefined on input line 1401.
+
+
+LaTeX Warning: Reference `fig:sanWAli' on page 171 undefined on input line 1401
+.
+
+
+LaTeX Warning: Citation `kumar10' on page 171 undefined on input line 1401.
+
+
+LaTeX Warning: Reference `tab:WAl' on page 171 undefined on input line 1403.
+
+[171]
+File: _Mar9_10shan_WAl_bottom_RF_i_scale.png Graphic file (type QTm)
+ <use  "_Mar9_10shan_WAl_bottom_RF_i_scale.png" >
+File: sanWAli.png Graphic file (type QTm)
+ <use  "sanWAli.png" >
+File: manual_16i.png Graphic file (type QTm)
+
+<use  "manual_16i.png" >) (./high_temp_testing.tex [172] [173] [174
+
+]
+Chapter 7.
+
+LaTeX Warning: Reference `tab:compress' on page 175 undefined on input line 16.
+
+
+[175]
+
+LaTeX Warning: Reference `fig:lcf' on page 176 undefined on input line 21.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 21.
+
+
+LaTeX Warning: Reference `fig:lcfhot' on page 176 undefined on input line 21.
+
+
+LaTeX Warning: Reference `fig:lcfcloseup' on page 176 undefined on input line 2
+2.
+
+
+LaTeX Warning: Reference `fig:testcylinders' on page 176 undefined on input lin
+e 25.
+
+
+LaTeX Warning: Reference `fig:lcfhotzoom' on page 176 undefined on input line 2
+7.
+
+[176] [177
+
+]
+File: lcf.jpg Graphic file (type QTm)
+ <use  "lcf.jpg" >
+File: lcfhot.jpg Graphic file (type QTm)
+ <use  "lcfhot.jpg" >
+File: lcfcloseup.jpg Graphic file (type QTm)
+ <use  "lcfcloseup.jpg" >
+File: testcylinders.jpg Graphic file (type QTm)
+
+<use  "testcylinders.jpg" > [178
+
+]
+File: lcfhotzoom.jpg Graphic file (type QTm)
+ <use  "lcfhotzoom.jpg" >
+File: lcfhotzoomii.jpg Graphic file (type QTm)
+
+<use  "lcfhotzoomii.jpg" > [179]
+
+LaTeX Warning: Reference `fig:wcplaten' on page 180 undefined on input line 97.
+
+
+
+LaTeX Warning: Reference `fig:wcplaten' on page 180 undefined on input line 97.
+
+
+
+LaTeX Warning: Reference `fig:25V_lcf_950' on page 180 undefined on input line 
+97.
+
+File: wcplaten.png Graphic file (type QTm)
+<use  "wcplaten.png" >
+
+LaTeX Warning: Reference `fig:25V_lcf_950' on page 180 undefined on input line 
+103.
+
+
+LaTeX Warning: Reference `fig:25V_lcf_950' on page 180 undefined on input line 
+103.
+
+[180]
+File: 25V_lcf.png Graphic file (type QTm)
+ <use  "25V_lcf.png" >
+
+LaTeX Warning: Reference `fig:lcfsantai' on page 181 undefined on input line 11
+9.
+
+
+LaTeX Warning: Reference `fig:vcompression' on page 181 undefined on input line
+ 121.
+
+
+LaTeX Warning: Reference `fig:vspec' on page 181 undefined on input line 121.
+
+File: lcfsantai.jpg Graphic file (type QTm)
+<use  "lcfsantai.jpg" >
+File: vcompression.png Graphic file (type QTm)
+ <use  "vcompression.png" > [181]
+File: v_comp_specimen.png Graphic file (type QTm)
+
+<use  "v_comp_specimen.png" >
+
+LaTeX Warning: Reference `fig:vcompression' on page 182 undefined on input line
+ 147.
+
+
+LaTeX Warning: Reference `fig:vcompression' on page 182 undefined on input line
+ 147.
+
+[182]
+
+LaTeX Warning: Reference `fig:enginxbanks' on page 183 undefined on input line 
+157.
+
+
+LaTeX Warning: Reference `fig:enginxloadcell' on page 183 undefined on input li
+ne 157.
+
+
+LaTeX Warning: Reference `fig:enginxfurnace' on page 183 undefined on input lin
+e 159.
+
+
+LaTeX Warning: Reference `fig:enginxloadedsample' on page 183 undefined on inpu
+t line 159.
+
+
+LaTeX Warning: Reference `fig:enginxtc' on page 183 undefined on input line 159
+.
+
+
+LaTeX Warning: Reference `fig:enginxvent' on page 183 undefined on input line 1
+59.
+
+
+LaTeX Warning: Reference `fig:tubesinvent' on page 183 undefined on input line 
+159.
+
+File: enginxbanks.jpg Graphic file (type QTm)
+<use  "enginxbanks.jpg" >
+File: enginxloadcell.jpg Graphic file (type QTm)
+ <use  "enginxloadcell.jpg" > [183]
+File: enginxfurnace.jpg Graphic file (type QTm)
+
+<use  "enginxfurnace.jpg" >
+File: enginxloadedsample.jpg Graphic file (type QTm)
+ <use  "enginxloadedsample.jpg" > [184]
+File: enginxtc.jpg Graphic file (type QTm)
+
+<use  "enginxtc.jpg" > [185]
+
+LaTeX Warning: Reference `fig:enginxsample' on page 186 undefined on input line
+ 199.
+
+
+LaTeX Warning: Reference `fig:enginxtestedsample' on page 186 undefined on inpu
+t line 199.
+
+File: enginxvent.jpg Graphic file (type QTm)
+<use  "enginxvent.jpg" >
+File: tubesinvent.jpg Graphic file (type QTm)
+ <use  "tubesinvent.jpg" > [186]
+File: enginxsample.jpg Graphic file (type QTm)
+
+<use  "enginxsample.jpg" > [187]
+File: enginxtestedsample.jpg Graphic file (type QTm)
+ <use  "enginxtestedsample.jpg" >
+
+LaTeX Warning: Reference `fig:enginxcr910C200MPa7' on page 188 undefined on inp
+ut line 238.
+
+
+LaTeX Warning: Reference `fig:enginxcr1000C200MPa7' on page 188 undefined on in
+put line 238.
+
+
+LaTeX Warning: Reference `fig:enginxsanta910C308MPa7' on page 188 undefined on 
+input line 238.
+
+
+LaTeX Warning: Reference `fig:enginxsanta1000C200MPa7' on page 188 undefined on
+ input line 238.
+
+File: enginxcr910C200MPa.png Graphic file (type QTm)
+<use  "enginxcr910C200MPa.png" >
+File: enginxcr1000C200MPa.png Graphic file (type QTm)
+ <use  "enginxcr1000C200MPa.png" > [188]
+File: enginxsanta910C308MPa.png Graphic file (type QTm)
+
+<use  "enginxsanta910C308MPa.png" > [189]
+File: enginxsanta1000C200MPa.png Graphic file (type QTm)
+ <use  "enginxsanta1000C200MPa.png" >
+
+LaTeX Warning: Reference `fig:brownlab' on page 190 undefined on input line 319
+.
+
+
+LaTeX Warning: Reference `fig:brownfurnace' on page 190 undefined on input line
+ 319.
+
+
+LaTeX Warning: Reference `fig:browncontrol' on page 190 undefined on input line
+ 319.
+
+
+LaTeX Warning: Citation `jain10' on page 190 undefined on input line 319.
+
+
+Overfull \hbox (2.95213pt too wide) in paragraph at lines 319--320
+\EU1/lmr/m/n/10.95 Permission was granted to conduct high-temperature structura
+l tests on the ultra-high-temperature
+ []
+
+[190]
+File: brownlab.png Graphic file (type QTm)
+ <use  "brownlab.png" >
+File: brownfurnace.png Graphic file (type QTm)
+ <use  "brownfurnace.png" > [191]
+File: browncontrol.png Graphic file (type QTm)
+
+<use  "browncontrol.png" > [192] [193]
+
+LaTeX Warning: Reference `fig:graph1_1' on page 194 undefined on input line 360
+.
+
+
+LaTeX Warning: Reference `fig:1200e-4qq' on page 194 undefined on input line 36
+0.
+
+
+LaTeX Warning: Reference `fig:binaryternary1200e-4' on page 194 undefined on in
+put line 360.
+
+
+LaTeX Warning: Reference `fig:sansanTa1200e-4' on page 194 undefined on input l
+ine 366.
+
+
+LaTeX Warning: Reference `fig:1200e-4' on page 194 undefined on input line 366.
+
+
+
+LaTeX Warning: Reference `fig:sanTaii' on page 194 undefined on input line 366.
+
+
+
+LaTeX Warning: Reference `fig:sansanTasanTaAl1300e-4' on page 194 undefined on 
+input line 369.
+
+[194]
+
+LaTeX Warning: Citation `jain10' on page 195 undefined on input line 375.
+
+
+LaTeX Warning: Citation `alur04' on page 195 undefined on input line 375.
+
+File: graph1_1.png Graphic file (type QTm)
+<use  "graph1_1.png" >
+File: 1200e-4qq.png Graphic file (type QTm)
+ <use  "1200e-4qq.png" > [195]
+File: binaryternary1200e-4.png Graphic file (type QTm)
+
+<use  "binaryternary1200e-4.png" >
+
+LaTeX Warning: Reference `fig:1200e-4qq' on page 196 undefined on input line 41
+3.
+
+
+LaTeX Warning: Reference `fig:1200e-4qq' on page 196 undefined on input line 41
+3.
+
+File: sansanTa1200e-4.png Graphic file (type QTm)
+<use  "sansanTa1200e-4.png" > [196]
+File: 1200e-4.png Graphic file (type QTm)
+ <use  "1200e-4.png" >
+File: sansanTasanTaAl.png Graphic file (type QTm)
+
+<use  "sansanTasanTaAl.png" > [197] [198]
+
+LaTeX Warning: Citation `jain10' on page 199 undefined on input line 448.
+
+[199]
+
+LaTeX Warning: Reference `fig:sanTaRFi' on page 200 undefined on input line 464
+.
+
+File: CrVTaRFi.png Graphic file (type QTm)
+<use  "CrVTaRFi.png" >
+
+LaTeX Warning: Reference `fig:graph1_1BSE' on page 200 undefined on input line 
+483.
+
+[200]
+
+LaTeX Warning: Reference `fig:manual_14_iv_trans_zoomout' on page 201 undefined
+ on input line 485.
+
+
+LaTeX Warning: Reference `fig:manual14_v' on page 201 undefined on input line 4
+85.
+
+
+LaTeX Warning: Reference `tab:postmortemsanTa' on page 201 undefined on input l
+ine 485.
+
+File: TaAle5i.png Graphic file (type QTm)
+<use  "TaAle5i.png" >
+File: TaAle5ii.png Graphic file (type QTm)
+ <use  "TaAle5ii.png" > [201]
+File: manual_14_iv_trans_zoomout.png Graphic file (type QTm)
+
+<use  "manual_14_iv_trans_zoomout.png" >
+File: manual14_v.png Graphic file (type QTm)
+ <use  "manual14_v.png" >
+File: manual14_vi.png Graphic file (type QTm)
+
+<use  "manual14_vi.png" >
+
+LaTeX Warning: Reference `fig:manual14_v' on page 202 undefined on input line 5
+22.
+
+[202] [203]
+
+LaTeX Warning: Citation `cathie12' on page 204 undefined on input line 540.
+
+
+LaTeX Warning: Reference `fig:anomalous' on page 204 undefined on input line 54
+2.
+
+
+LaTeX Warning: Citation `nembach00' on page 204 undefined on input line 542.
+
+
+LaTeX Warning: Citation `cathie12' on page 204 undefined on input line 542.
+
+[204]
+File: anomalous.png Graphic file (type QTm)
+ <use  "anomalous.png" >
+
+LaTeX Warning: Citation `nembach00' on page 205 undefined on input line 550.
+
+
+LaTeX Warning: Citation `nembach00' on page 205 undefined on input line 550.
+
+
+LaTeX Warning: Reference `tab:tensile' on page 205 undefined on input line 559.
+
+
+
+Overfull \hbox (20.29086pt too wide) in paragraph at lines 564--573
+ [] 
+ []
+
+
+LaTeX Warning: Reference `fig:ETMTphoto' on page 205 undefined on input line 58
+1.
+
+
+LaTeX Warning: Reference `fig:etmtgrips' on page 205 undefined on input line 58
+1.
+
+[205]
+File: etmt.png Graphic file (type QTm)
+ <use  "etmt.png" >
+File: etmtgrips.png Graphic file (type QTm)
+ <use  "etmtgrips.png" > [206]
+File: vdogbone.jpg Graphic file (type QTm)
+ <use  "vdogbone.jpg" >
+
+LaTeX Warning: Reference `fig:vdogbone' on page 207 undefined on input line 613
+.
+
+[207]
+
+LaTeX Warning: Reference `fig:lcftensile' on page 208 undefined on input line 6
+28.
+
+
+LaTeX Warning: Reference `fig:Cr75modulus' on page 208 undefined on input line 
+628.
+
+File: lcftensile.png Graphic file (type QTm)
+<use  "lcftensile.png" >
+File: 75Crmodulus.png Graphic file (type QTm)
+ <use  "75Crmodulus.png" >
+
+LaTeX Warning: Reference `fig:lcftensile' on page 208 undefined on input line 6
+43.
+
+
+LaTeX Warning: Reference `fig:lcftensile' on page 208 undefined on input line 6
+43.
+
+[208] [209]) (./silicidesuicide.tex
+Overfull \hbox (26.35666pt too wide) in paragraph at lines 674--1
+[]\EU1/lmr/m/n/10.95 A proper high-temperature test-rig should be commissioned 
+when developing ultra-high-temperature
+ []
+
+[210] [211] [212
+
+]
+Chapter 8.
+
+LaTeX Warning: Reference `fig:rus_elastic' on page 213 undefined on input line 
+7.
+
+
+LaTeX Warning: Citation `maynard92' on page 213 undefined on input line 7.
+
+
+LaTeX Warning: Citation `zhang10' on page 213 undefined on input line 7.
+
+
+LaTeX Warning: Citation `carpenter06' on page 213 undefined on input line 7.
+
+
+LaTeX Warning: Citation `mcknight08' on page 213 undefined on input line 7.
+
+
+LaTeX Warning: Citation `mcknight09' on page 213 undefined on input line 7.
+
+File: rus_elastic.png Graphic file (type QTm)
+<use  "rus_elastic.png" >
+
+LaTeX Warning: Citation `maynard92' on page 213 undefined on input line 19.
+
+
+LaTeX Warning: Citation `maynard92' on page 213 undefined on input line 19.
+
+[213]
+
+LaTeX Warning: Reference `fig:rus_setup' on page 214 undefined on input line 27
+.
+
+File: rus_setup.png Graphic file (type QTm)
+<use  "rus_setup.png" >
+
+LaTeX Warning: Citation `mcknight09' on page 214 undefined on input line 34.
+
+
+LaTeX Warning: Citation `mcknight09' on page 214 undefined on input line 34.
+
+[214]
+
+LaTeX Warning: Citation `mcknight09' on page 215 undefined on input line 50.
+
+
+LaTeX Warning: Reference `tab:RT' on page 215 undefined on input line 62.
+
+
+LaTeX Warning: Reference `tab:alloycompowt' on page 215 undefined on input line
+ 62.
+
+[215]
+
+LaTeX Warning: Reference `fig:rus_v_pm' on page 216 undefined on input line 91.
+
+
+
+LaTeX Warning: Reference `fig:rus_santa_pm' on page 216 undefined on input line
+ 91.
+
+
+LaTeX Warning: Reference `fig:rus_santaal_pm' on page 216 undefined on input li
+ne 91.
+
+
+LaTeX Warning: Reference `fig:rus_santa_pm' on page 216 undefined on input line
+ 91.
+
+
+LaTeX Warning: Reference `fig:rus_santaal_pm' on page 216 undefined on input li
+ne 91.
+
+File: RUS_v_pm.png Graphic file (type QTm)
+<use  "RUS_v_pm.png" >
+Overfull \hbox (20.77031pt too wide) in paragraph at lines 96--97
+ [] 
+ []
+
+File: RUS_santa_pm.png Graphic file (type QTm)
+<use  "RUS_santa_pm.png" > [216]
+File: RUS_santaal_pm.png Graphic file (type QTm)
+ <use  "RUS_santaal_pm.png" > [217]
+
+LaTeX Warning: Reference `tab:young' on page 218 undefined on input line 133.
+
+
+LaTeX Warning: Reference `tab:young' on page 218 undefined on input line 161.
+
+
+LaTeX Warning: Reference `tab:young' on page 218 undefined on input line 163.
+
+
+LaTeX Warning: Reference `tab:young' on page 218 undefined on input line 165.
+
+[218]
+
+LaTeX Warning: Reference `tab:young' on page 219 undefined on input line 167.
+
+
+LaTeX Warning: Reference `fig:oxidation' on page 219 undefined on input line 17
+8.
+
+
+LaTeX Warning: Reference `fig:oxidation' on page 219 undefined on input line 17
+8.
+
+[219]
+
+LaTeX Warning: Reference `fig:oxidation' on page 220 undefined on input line 18
+1.
+
+[220]
+File: oxidation.jpg Graphic file (type QTm)
+ <use  "oxidation.jpg" > [221]
+Missing character: There is no character number "10FC04 in font [lmroman10-regu
+lar]:mapping=tex-text!
+
+
+LaTeX Warning: Reference `fig:enginxsetup' on page 222 undefined on input line 
+213.
+
+
+LaTeX Warning: Reference `fig:enginxsetup' on page 222 undefined on input line 
+213.
+
+[222
+
+
+]
+
+LaTeX Warning: Citation `withers98' on page 223 undefined on input line 217.
+
+
+LaTeX Warning: Citation `coakley12' on page 223 undefined on input line 217.
+
+
+LaTeX Warning: Citation `dye01' on page 223 undefined on input line 217.
+
+File: enginxsetup.png Graphic file (type QTm)
+<use  "enginxsetup.png" >
+
+LaTeX Warning: Reference `tab:tof' on page 223 undefined on input line 253.
+
+[223]
+
+LaTeX Warning: Reference `fig:enginxcr910C200MPa' on page 224 undefined on inpu
+t line 265.
+
+
+LaTeX Warning: Reference `fig:enginxcr910Cstrain' on page 224 undefined on inpu
+t line 266.
+
+
+LaTeX Warning: Reference `fig:enginxcr1000C200MPa' on page 224 undefined on inp
+ut line 266.
+
+
+LaTeX Warning: Reference `fig:enginxcr1000Cstrain' on page 224 undefined on inp
+ut line 266.
+
+
+LaTeX Warning: Reference `fig:enginxsanta910C308MPa' on page 224 undefined on i
+nput line 268.
+
+
+LaTeX Warning: Reference `fig:santa910C308MPastrain' on page 224 undefined on i
+nput line 268.
+
+
+LaTeX Warning: Reference `fig:enginxsanta1000C200MPa' on page 224 undefined on 
+input line 270.
+
+
+LaTeX Warning: Reference `fig:enginxsanta1000C200MPastrain' on page 224 undefin
+ed on input line 270.
+
+File: enginxcr910C200MPa.png Graphic file (type QTm)
+<use  "enginxcr910C200MPa.png" >
+File: enginxcr910C200MPastrain.png Graphic file (type QTm)
+ <use  "enginxcr910C200MPastrain.png" >
+[224]
+File: enginxcr1000C200MPa.png Graphic file (type QTm)
+ <use  "enginxcr1000C200MPa.png" >
+File: enginxcr1000C200MPastrain.png Graphic file (type QTm)
+
+<use  "enginxcr1000C200MPastrain.png" > [225]
+File: enginxsanta910C308MPa.png Graphic file (type QTm)
+
+<use  "enginxsanta910C308MPa.png" >
+File: enginxsanta910C308MPastrain.png Graphic file (type QTm)
+ <use  "enginxsanta910C308MPastrain.png" >
+[226]
+File: enginxsanta1000C200MPa.png Graphic file (type QTm)
+ <use  "enginxsanta1000C200MPa.png" >
+File: enginxsanta1000C200MPastrain.png Graphic file (type QTm)
+
+<use  "enginxsanta1000C200MPastrain.png" > [227]
+
+LaTeX Warning: Reference `fig:enginxcr1000Cstrain' on page 228 undefined on inp
+ut line 345.
+
+[228]
+
+LaTeX Warning: Citation `withers98' on page 229 undefined on input line 349.
+
+
+LaTeX Warning: Reference `fig:withers' on page 229 undefined on input line 349.
+
+
+
+LaTeX Warning: Reference `fig:withers' on page 229 undefined on input line 349.
+
+
+
+LaTeX Warning: Reference `fig:withers' on page 229 undefined on input line 349.
+
+
+File: withers.png Graphic file (type QTm)
+<use  "withers.png" >
+Missing character: There is no character number "10FC0A in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0B in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0A in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0B in font [lmroman10-regu
+lar]:mapping=tex-text!
+
+
+LaTeX Warning: Citation `withers98' on page 229 undefined on input line 356.
+
+Missing character: There is no character number "10FC0A in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0B in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0A in font [lmroman10-regu
+lar]:mapping=tex-text!
+Missing character: There is no character number "10FC0B in font [lmroman10-regu
+lar]:mapping=tex-text!
+
+LaTeX Warning: Citation `withers98' on page 229 undefined on input line 356.
+
+[229]
+
+LaTeX Warning: Citation `coakley12' on page 230 undefined on input line 361.
+
+File: coakley.png Graphic file (type QTm)
+<use  "coakley.png" >
+Overfull \hbox (6.54393pt too wide) in paragraph at lines 366--368
+ [] 
+ []
+
+
+LaTeX Warning: Citation `coakley12' on page 230 undefined on input line 368.
+
+
+LaTeX Warning: Citation `coakley12' on page 230 undefined on input line 368.
+
+[230]) (./conclusion.tex [231] [232
+
+]
+Chapter 9.
+[233] [234] [235]
+File: flow.png Graphic file (type QTm)
+ <use  "flow.png" > [236]
+
+LaTeX Warning: Reference `fig:flow' on page 237 undefined on input line 55.
+
+
+LaTeX Warning: Reference `fig:flow' on page 237 undefined on input line 57.
+
+[237]
+
+LaTeX Warning: Reference `fig:flow' on page 238 undefined on input line 63.
+
+
+LaTeX Warning: Citation `cathie12' on page 238 undefined on input line 76.
+
+[238]
+
+LaTeX Warning: Reference `fig:anomalous' on page 239 undefined on input line 78
+.
+
+
+LaTeX Warning: Citation `nembach00' on page 239 undefined on input line 78.
+
+
+LaTeX Warning: Citation `cathie12' on page 239 undefined on input line 78.
+
+[239]
+
+LaTeX Warning: Reference `fig:T2structure' on page 240 undefined on input line 
+94.
+
+
+LaTeX Warning: Citation `rawn01' on page 240 undefined on input line 94.
+
+
+LaTeX Warning: Reference `fig:CrSiB' on page 240 undefined on input line 94.
+
+
+LaTeX Warning: Citation `sakidja05' on page 240 undefined on input line 94.
+
+
+LaTeX Warning: Citation `nowotny58' on page 240 undefined on input line 94.
+
+
+LaTeX Warning: Reference `fig:T2_alloying' on page 240 undefined on input line 
+96.
+
+
+LaTeX Warning: Citation `sakidja05' on page 240 undefined on input line 96.
+
+File: CrSiB.jpg Graphic file (type QTm)
+<use  "CrSiB.jpg" >
+
+LaTeX Warning: Citation `nowotny58' on page 240 undefined on input line 107.
+
+
+LaTeX Warning: Citation `nowotny58' on page 240 undefined on input line 107.
+
+File: T2_alloying.jpg Graphic file (type QTm)
+<use  "T2_alloying.jpg" >
+
+LaTeX Warning: Citation `sakidja05' on page 240 undefined on input line 115.
+
+
+LaTeX Warning: Citation `sakidja05' on page 240 undefined on input line 115.
+
+[240])
+No file CPGS.bbl.
+[241] [242] (./CPGS.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 35 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 15890 strings out of 494150
+ 264801 string characters out of 3152949
+ 345562 words of memory out of 3000000
+ 18558 multiletter control sequences out of 15000+200000
+ 31932 words of font info for 155 fonts, out of 3000000 for 9000
+ 1018 hyphenation exceptions out of 8191
+ 44i,16n,83p,2960b,1017s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on CPGS.pdf (242 pages).

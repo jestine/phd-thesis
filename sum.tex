@@ -1,0 +1,34 @@
+\documentclass[11pt]{report}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{verse}
+\usepackage{attrib}
+\usepackage{alltt}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{esint}
+\usepackage{graphicx}
+\usepackage{eucal}
+\usepackage{textcomp}
+\usepackage{units}
+\usepackage{setspace}
+\usepackage[amssymb,thinqspace,thinspace]{SIunits}
+\usepackage{subfig}
+\usepackage{bm} 
+\usepackage{multirow}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage{lscape}
+\usepackage{pdflscape}
+%\usepackage{epstopdf}
+\usepackage{fontspec}
+\newfontfamily\chinesewriting{Apple LiSung Light}
+\newfontfamily\quotewriting{Didot}
+\newcommand\rumi[1]{{\quotewriting #1}}
+\newcommand\ilovewill[1]{{\chinesewriting #1}}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\setlength{\parskip}{0.3cm}
+\onehalfspace
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\begin{document}
+\input{summary}
+\end{document}

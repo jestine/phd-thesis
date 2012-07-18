@@ -1,0 +1,100 @@
+\contentsline {chapter}{\numberline {1}Introduction}{9}
+\contentsline {chapter}{\numberline {2}Nickel-Base Superalloys}{13}
+\contentsline {section}{\numberline {2.1}The Evolution of Nickel-Base Superalloys}{13}
+\contentsline {section}{\numberline {2.2}Microstructure and Deformation}{15}
+\contentsline {subsection}{\numberline {2.2.1}Dislocations}{15}
+\contentsline {subsection}{\numberline {2.2.2}Lattice Misfit}{16}
+\contentsline {subsection}{\numberline {2.2.3}Creep}{17}
+\contentsline {subsection}{\numberline {2.2.4}Rafting}{19}
+\contentsline {section}{\numberline {2.3}Current Blade Superalloy Design Strategies}{21}
+\contentsline {subsection}{\numberline {2.3.1}The Solubility Index}{21}
+\contentsline {section}{\numberline {2.4}Manipulation of Oxidation Character in Superalloys}{26}
+\contentsline {section}{\numberline {2.5}Superalloy Design Strategy as Inspiration for Alloy Design Philosophy Employed in Alternative Materials Study}{27}
+\contentsline {chapter}{\numberline {3}Exploration of Alternative Systems}{29}
+\contentsline {section}{\numberline {3.1}PGM Superalloys}{31}
+\contentsline {section}{\numberline {3.2}Alumina-Forming Alloys}{34}
+\contentsline {section}{\numberline {3.3}Chromia-Forming Alloys}{40}
+\contentsline {section}{\numberline {3.4}Silica-Forming Alloys}{40}
+\contentsline {section}{\numberline {3.5}Other Intermetallic Systems}{41}
+\contentsline {section}{\numberline {3.6}Refractory Metal Silicide Systems}{44}
+\contentsline {subsection}{\numberline {3.6.1}Molybdenum Silicides}{45}
+\contentsline {subsubsection}{Molybdenum Borosilicide Alloys}{48}
+\contentsline {subsection}{\numberline {3.6.2}Niobium Silicides}{56}
+\contentsline {subsection}{\numberline {3.6.3}Chromium Silicides}{58}
+\contentsline {subsection}{\numberline {3.6.4}Vanadium Silicides}{66}
+\contentsline {subsection}{\numberline {3.6.5}Titanium Silicides}{69}
+\contentsline {subsection}{\numberline {3.6.6}Tantalum Silicides}{71}
+\contentsline {subsection}{\numberline {3.6.7}Tungsten Silicides}{72}
+\contentsline {section}{\numberline {3.7}Intermetallic Alloy Manufacture and Processing}{73}
+\contentsline {chapter}{\numberline {4}Silicide Alloy Design}{75}
+\contentsline {section}{\numberline {4.1}Alloy Design Criteria}{75}
+\contentsline {section}{\numberline {4.2}X--X$_3$Si Alloy Design}{76}
+\contentsline {subsection}{\numberline {4.2.1}Key Issues to Address}{76}
+\contentsline {subsection}{\numberline {4.2.2}Silicide Selection}{77}
+\contentsline {subsection}{\numberline {4.2.3}X--X$_3$Si Eutectics}{79}
+\contentsline {section}{\numberline {4.3}Alloy Design of Binary and Ternary Alloys}{81}
+\contentsline {section}{\numberline {4.4}Alloy Design of the Quaternary and Quinary Eutectics}{84}
+\contentsline {subsection}{\numberline {4.4.1}Quaternary Ta addition to {\chinesewriting 山}}{84}
+\contentsline {subsection}{\numberline {4.4.2}Quaternary W addition to {\chinesewriting 山}}{85}
+\contentsline {subsection}{\numberline {4.4.3}Quinary Al Additions to {\chinesewriting 山}Ta and {\chinesewriting 山}W}{88}
+\contentsline {section}{\numberline {4.5}Other Alloying Additions Considered}{92}
+\contentsline {chapter}{\numberline {5}Alloy Manufacture}{95}
+\contentsline {section}{\numberline {5.1}Exploration of Alloy Manufacturing Routes}{95}
+\contentsline {section}{\numberline {5.2}Non-Directional Alloy Manufacture}{96}
+\contentsline {subsection}{\numberline {5.2.1}Arc-Melt Manufacture}{96}
+\contentsline {subsection}{\numberline {5.2.2}Radio Frequency Solidification Manufacture}{98}
+\contentsline {subsection}{\numberline {5.2.3}Graphite Furnace Manufacture}{99}
+\contentsline {subsection}{\numberline {5.2.4}Plasma-Melting}{102}
+\contentsline {subsection}{\numberline {5.2.5}Non-Directional Solidification Manufacture with the Vertical RF Furnace}{104}
+\contentsline {section}{\numberline {5.3}Directional Solidification Manufacture}{105}
+\contentsline {subsection}{\numberline {5.3.1}Directional Solidification with the Vertical RF Furnace}{105}
+\contentsline {subsection}{\numberline {5.3.2}Four-Mirror Image Furnace Manufacture}{107}
+\contentsline {chapter}{\numberline {6}Microstructure and WDS Analysis of the X--X$_3$Si Alloys}{109}
+\contentsline {section}{\numberline {6.1}Calibration, Set-up and Method of WDS Data Collection}{110}
+\contentsline {section}{\numberline {6.2}Microstructure and WDS Analysis of Binary and Ternary Alloys}{115}
+\contentsline {subsection}{\numberline {6.2.1}WDS Area Maps}{115}
+\contentsline {subsection}{\numberline {6.2.2}Binary Alloy Cr--Cr$_3$Si}{120}
+\contentsline {subsubsection}{Non-Directional Solidification Manufactured Ingots}{120}
+\contentsline {subsubsection}{Directional Solidification Manufactured Ingots}{122}
+\contentsline {subsection}{\numberline {6.2.3}Ternary Alloy ($\frac {3}{4}$Cr, $\frac {1}{4}$V)--($\frac {3}{4}$Cr, $\frac {1}{4}$V)$_3$Si}{124}
+\contentsline {subsubsection}{Non-Directional Solidification Manufactured Ingots}{124}
+\contentsline {subsubsection}{Directional Solidification Manufactured Ingots}{126}
+\contentsline {subsection}{\numberline {6.2.4}Ternary Base Alloy {\chinesewriting 山}: ($\frac {1}{2}$Cr, $\frac {1}{2}$V)--($\frac {1}{2}$Cr, $\frac {1}{2}$V)$_3$Si}{128}
+\contentsline {subsection}{\numberline {6.2.5}Ternary Alloy ($\frac {1}{4}$Cr, $\frac {3}{4}$V)--($\frac {1}{4}$Cr, $\frac {3}{4}$V)$_3$Si}{130}
+\contentsline {subsection}{\numberline {6.2.6}Binary Alloy V--V$_3$Si}{132}
+\contentsline {subsubsection}{Explanation of Large Eutectic Composition Ranges measured by WDS}{141}
+\contentsline {subsection}{\numberline {6.2.7}Summary of Binary and Ternary Alloys}{142}
+\contentsline {section}{\numberline {6.3}Microstructure and WDS Analysis of Quaternary and Quinary Alloys}{142}
+\contentsline {subsection}{\numberline {6.3.1}Quaternary {\chinesewriting 山}Ta}{144}
+\contentsline {subsection}{\numberline {6.3.2}Quinary {\chinesewriting 山}TaAl}{151}
+\contentsline {subsection}{\numberline {6.3.3}Quaternary Alloy {\chinesewriting 山}W}{168}
+\contentsline {subsection}{\numberline {6.3.4}Quaternary Alloy {\chinesewriting 山}WAl}{171}
+\contentsline {chapter}{\numberline {7}High-Temperature Testing}{175}
+\contentsline {section}{\numberline {7.1}High-Temperature Compression Testing}{176}
+\contentsline {subsection}{\numberline {7.1.1}Testing on the in-house LCF Rig}{176}
+\contentsline {subsection}{\numberline {7.1.2}Testing at ENGIN--X}{183}
+\contentsline {subsubsection}{Results}{188}
+\contentsline {subsection}{\numberline {7.1.3}Testing Using a High-Temperature Stress-Rig at Brown University}{191}
+\contentsline {subsubsection}{Results and Post-Mortem Analysis}{194}
+\contentsline {subsection}{\numberline {7.1.4}Post-Mortem Analysis of Compression Tested Specimens}{199}
+\contentsline {subsubsection}{Post-Mortem Microstructural Analysis of Compression Tested {\chinesewriting 山}Ta}{201}
+\contentsline {section}{\numberline {7.2}High-Temperature Tensile Testing}{205}
+\contentsline {subsection}{\numberline {7.2.1}Testing with the in-house ETMT Machine}{205}
+\contentsline {subsection}{\numberline {7.2.2}Testing with the ETMT Machine at the National Physics Laboratory}{207}
+\contentsline {subsection}{\numberline {7.2.3}Testing using the in-house Low Cycle Fatigue Rig}{208}
+\contentsline {subsubsection}{Results}{208}
+\contentsline {subsection}{\numberline {7.2.4}Tensile Testing Conclusions}{209}
+\contentsline {section}{\numberline {7.3}Mechanical Properties Conclusion}{209}
+\contentsline {subsubsection}{Comparison between Powder Metallurgy and Directional Solidification}{210}
+\contentsline {chapter}{\numberline {8}Elastic Moduli, Oxidation and Load-Partitioning Tests}{213}
+\contentsline {section}{\numberline {8.1}Elastic Moduli Measurements Using RUS}{213}
+\contentsline {subsubsection}{RUS Experimental Set-up}{214}
+\contentsline {subsubsection}{Sample Manufacture}{215}
+\contentsline {subsubsection}{Peaks Acquired}{216}
+\contentsline {subsubsection}{Peak Fitting Procedure}{217}
+\contentsline {section}{\numberline {8.2}Oxidation Tests}{219}
+\contentsline {section}{\numberline {8.3}Load-Partitioning Experiments}{222}
+\contentsline {subsection}{\numberline {8.3.1}Results}{224}
+\contentsline {chapter}{\numberline {9}Conclusions and Future Work}{233}
+\contentsline {section}{\numberline {9.1}Conclusions}{233}
+\contentsline {section}{\numberline {9.2}Future Work}{240}
